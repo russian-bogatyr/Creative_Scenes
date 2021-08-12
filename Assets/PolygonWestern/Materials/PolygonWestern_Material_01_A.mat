@@ -11,8 +11,7 @@ Material:
   m_Shader: {fileID: 4800000, guid: 418a1adfe2e75f34da8aaf192ff8e296, type: 3}
   m_ShaderKeywords: _METALLICGLOSSMAP _MK_ALBEDO_MAP _MK_ARTISTIC_PROJECTION_SCREEN_SPACE
     _MK_ENVIRONMENT_REFLECTIONS_AMBIENT _MK_LIGHT_CEL _MK_PBS_MAP_0 _MK_RECEIVE_SHADOWS
-    _MK_SPECULAR_ISOTROPIC _MK_SURFACE_TYPE_TRANSPARENT _MK_WRAPPED_DIFFUSE _RECEIVESHADOWS_ON
-    _WRAPPEDLIGHTING_ON
+    _MK_SURFACE_TYPE_TRANSPARENT _MK_WRAPPED_DIFFUSE _RECEIVESHADOWS_ON _WRAPPEDLIGHTING_ON
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
   m_DoubleSidedGI: 0
@@ -163,9 +162,9 @@ Material:
     - _IridescenceSmoothness: 0.5
     - _IridescenceThresholdOffset: 0
     - _Light: 1
-    - _LightBands: 4
-    - _LightBandsScale: 0.5
-    - _LightThreshold: 0.21
+    - _LightBands: 6
+    - _LightBandsScale: 0.99
+    - _LightThreshold: 0.48
     - _Metallic: 0
     - _Mode: 0
     - _NormalMapIntensity: 1
@@ -183,10 +182,10 @@ Material:
     - _SketchMapScale: 1
     - _Smoothness: 1
     - _SmoothnessTextureChannel: 0
-    - _Specular: 1
+    - _Specular: 0
     - _SpecularHighlights: 1
     - _SpecularIntensity: 0
-    - _SpecularSmoothness: 1
+    - _SpecularSmoothness: 0.97
     - _SpecularThresholdOffset: 0.25
     - _SrcBlend: 1
     - _Stencil: 1
