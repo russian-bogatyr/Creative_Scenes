@@ -1,6 +1,6 @@
 Using pre-set license
 Built from '2020.3/staging' branch; Version is '2020.3.3f1 (76626098c1c4) revision 7758432'; Using compiler version '192528614'; Build Type 'Release'
-OS: 'Windows 10 Home; OS build 19041.1110; Version 2004; 64bit' Language: 'en' Physical Memory: 32706 MB
+OS: 'Windows 10 Home; OS build 19043.1165; Version 2009; 64bit' Language: 'en' Physical Memory: 32706 MB
 BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
 
  COMMAND LINE ARGUMENTS:
@@ -15,11 +15,11 @@ F:/GitHub/Creative_Scenes
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-49703
+57961
 Successfully changed project path to: F:/GitHub/Creative_Scenes
 F:/GitHub/Creative_Scenes
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 68.93 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 70.53 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2020.3.3f1 (76626098c1c4)
 [Subsystems] Discovering subsystems at path F:/Unity/2020.3.3f1/Editor/Data/Resources/UnitySubsystems
@@ -35,22 +35,1355 @@ Initialize mono
 Mono path[0] = 'F:/Unity/2020.3.3f1/Editor/Data/Managed'
 Mono path[1] = 'F:/Unity/2020.3.3f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
 Mono config path = 'F:/Unity/2020.3.3f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56840
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56932
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: F:/Unity/2020.3.3f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.001069 seconds.
+Registered in 0.000950 seconds.
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 78.03 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 84.76 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.928 seconds
+- Completed reload, in  0.907 seconds
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.001278 seconds.
+Registered in 0.001066 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.87 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.812 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.07 seconds
+Refreshing native plugins compatible for Editor in 0.77 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1295 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 102.3 MB.
+System memory in use after: 102.3 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 1757.
+Total: 1.908200 ms (FindLiveObjects: 0.147400 ms CreateObjectMapping: 0.035700 ms MarkObjects: 1.579500 ms  DeleteObjects: 0.144600 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/_TerrainAutoUpgrade
+  artifactKey: Guid(c809fa6828c2e9147bb8debe8bff62ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_TerrainAutoUpgrade using Guid(c809fa6828c2e9147bb8debe8bff62ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'efd1837fd14a5179c333a19d123e6de1') in 0.026330 seconds
+  Import took 0.028857 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.862843 seconds.
+  path: Assets/PolygonParticles
+  artifactKey: Guid(506fc06ce3d46304382116361342c608) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonParticles using Guid(506fc06ce3d46304382116361342c608) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f6125c95f11a666d974b39b199990bd9') in 0.005373 seconds
+  Import took 0.007901 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.147988 seconds.
+  path: Assets/PolygonParticles/Scenes
+  artifactKey: Guid(311ecc912f5824148abab36870ba6ef4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonParticles/Scenes using Guid(311ecc912f5824148abab36870ba6ef4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '93ada1636d98f03251ecbb22d67a5f43') in 0.004639 seconds
+  Import took 0.007347 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.007287 seconds.
+  path: Assets/PolygonParticles/Scenes/Demo_01.unity
+  artifactKey: Guid(ad343a8737470eb4cb90975973b145d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonParticles/Scenes/Demo_01.unity using Guid(ad343a8737470eb4cb90975973b145d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3938dc552170681c756539b8d90c18a0') in 0.011721 seconds
+  Import took 0.013863 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 75.563384 seconds.
+  path: Assets/PolygonApocalypse/Prefabs/FX/Misc/FX_Sphere.fbx
+  artifactKey: Guid(219de587148d8bb41a8e255859dafe53) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonApocalypse/Prefabs/FX/Misc/FX_Sphere.fbx using Guid(219de587148d8bb41a8e255859dafe53) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8af560e479aef379289f10fc5b387771') in 0.345870 seconds
+  Import took 0.349023 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001079 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.92 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.799 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.75 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1238 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 100.4 MB.
+System memory in use after: 100.5 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1770.
+Total: 2.076400 ms (FindLiveObjects: 0.154700 ms CreateObjectMapping: 0.043600 ms MarkObjects: 1.780100 ms  DeleteObjects: 0.096700 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 304.490747 seconds.
+  path: Assets/Scenes/PostApoc.unity
+  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/PostApoc.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '364d32e71a24b8680ed82c65acc358b7') in 0.025184 seconds
+  Import took 0.027823 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 69.364971 seconds.
+  path: Assets/PolygonNature/Textures/Misc/Skybox_No_Snow_Diff.png
+  artifactKey: Guid(cefcb4452f7b6c84fa4d890c7dc8b5e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonNature/Textures/Misc/Skybox_No_Snow_Diff.png using Guid(cefcb4452f7b6c84fa4d890c7dc8b5e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '651a3d13789a72ffd3653a2eb29dfa3a') in 0.368539 seconds
+  Import took 0.371839 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000258 seconds.
+  path: Assets/PolygonNature/Textures/Misc/Skybox_Normal.png
+  artifactKey: Guid(2242a6dee2856034b831a983d45aa5f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonNature/Textures/Misc/Skybox_Normal.png using Guid(2242a6dee2856034b831a983d45aa5f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'addeaac38e0f127cdd96b6e5cd1fbd45') in 0.198678 seconds
+  Import took 0.202234 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000261 seconds.
+  path: Assets/_MK/MKToon/Builtin/LightRamp1D/Smooth.png
+  artifactKey: Guid(a1563a2bd58b13f468ecb1517b26bb19) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_MK/MKToon/Builtin/LightRamp1D/Smooth.png using Guid(a1563a2bd58b13f468ecb1517b26bb19) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0856f210febe7a3815cddf4df3f614bb') in 0.145417 seconds
+  Import took 0.148503 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000290 seconds.
+  path: Assets/PolygonNature/Textures/Misc/Skybox_Normal.png
+  artifactKey: Guid(2242a6dee2856034b831a983d45aa5f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonNature/Textures/Misc/Skybox_Normal.png using Guid(2242a6dee2856034b831a983d45aa5f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'addeaac38e0f127cdd96b6e5cd1fbd45') in 0.026043 seconds
+  Import took 0.028771 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000292 seconds.
+  path: Assets/_MK/MKToon/Builtin/LightRamp1D/Smooth.png
+  artifactKey: Guid(a1563a2bd58b13f468ecb1517b26bb19) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_MK/MKToon/Builtin/LightRamp1D/Smooth.png using Guid(a1563a2bd58b13f468ecb1517b26bb19) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0856f210febe7a3815cddf4df3f614bb') in 0.005380 seconds
+  Import took 0.008673 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000211 seconds.
+  path: Assets/PolygonNature/Textures/Misc/Snow_Diff.png
+  artifactKey: Guid(8c299bb30eb88114d9e14cb44a465f1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonNature/Textures/Misc/Snow_Diff.png using Guid(8c299bb30eb88114d9e14cb44a465f1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'be873b6d00893e7664cc3d3d55bab08b') in 0.065591 seconds
+  Import took 0.067997 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000280 seconds.
+  path: Assets/PolygonNature/Textures/Ground_Textures/Snow.png
+  artifactKey: Guid(badc4e58ab4c4de4fbc591540c5ccbe1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonNature/Textures/Ground_Textures/Snow.png using Guid(badc4e58ab4c4de4fbc591540c5ccbe1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '118a8dea6fb0ae64a970e1d0d6c75d2c') in 0.075961 seconds
+  Import took 0.078304 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000193 seconds.
+  path: Assets/PolygonNature/Scenes/Terrains/Terrain_Main_Demo.asset
+  artifactKey: Guid(64b9bb98e309d5d428d5feca423a622c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonNature/Scenes/Terrains/Terrain_Main_Demo.asset using Guid(64b9bb98e309d5d428d5feca423a622c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '73483c14561d03a6fa5755704af70114') in 1.220593 seconds
+  Import took 1.224957 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000246 seconds.
+  path: Assets/PolygonNature/Textures/Ground_Textures/Snow.png
+  artifactKey: Guid(badc4e58ab4c4de4fbc591540c5ccbe1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonNature/Textures/Ground_Textures/Snow.png using Guid(badc4e58ab4c4de4fbc591540c5ccbe1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '118a8dea6fb0ae64a970e1d0d6c75d2c') in 0.008461 seconds
+  Import took 0.010734 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 337.270326 seconds.
+  path: Assets/PolygonBossZombies/Textures/PolygonZombieBoss_ModifiedTexture.png
+  artifactKey: Guid(46750614e2155fb4e8221cc5697ee4ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonBossZombies/Textures/PolygonZombieBoss_ModifiedTexture.png using Guid(46750614e2155fb4e8221cc5697ee4ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dee16b9145fd439e83fb1812e6732b62') in 0.012077 seconds
+  Import took 0.014971 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 314.198581 seconds.
+  path: Assets/PolygonBossZombies/Textures/PolygonZombieBoss_Texture_ModifiedSkin.png
+  artifactKey: Guid(8fd55a02297926f42bfd8cff0b2024b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonBossZombies/Textures/PolygonZombieBoss_Texture_ModifiedSkin.png using Guid(8fd55a02297926f42bfd8cff0b2024b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1dc1ec906664674df2af7411d0a2a073') in 0.036679 seconds
+  Import took 0.039475 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 114.603878 seconds.
+  path: Assets/PolygonBossZombies/Textures/ModifiedSkin.png
+  artifactKey: Guid(ce9e540428a53a549afafbb032228bb7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonBossZombies/Textures/ModifiedSkin.png using Guid(ce9e540428a53a549afafbb032228bb7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5130955fe75d9abfe636d786fc317a4d') in 0.010795 seconds
+  Import took 0.013586 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 155.106221 seconds.
+  path: Assets/PolygonBossZombies/Textures/Modifiedskin2.png
+  artifactKey: Guid(a3fcc10801c15b446ac0319a4243cb51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonBossZombies/Textures/Modifiedskin2.png using Guid(a3fcc10801c15b446ac0319a4243cb51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '690100368978d404613c7130cf22e3ad') in 0.033327 seconds
+  Import took 0.035992 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 315.791928 seconds.
+  path: Assets/PolygonApocalypse/Models/SM_Item_Wirecutter_01.fbx
+  artifactKey: Guid(3192630b675cd814e8901c2ea0b4b76e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonApocalypse/Models/SM_Item_Wirecutter_01.fbx using Guid(3192630b675cd814e8901c2ea0b4b76e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '56182cc6777caa2cebcc34746358470a') in 0.228031 seconds
+  Import took 0.231244 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.406573 seconds.
+  path: Assets/PolygonApocalypse/Models/SM_Prop_Log_Wire_01.fbx
+  artifactKey: Guid(7a89a95be3bafaa4a9e0860be9ef7a24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonApocalypse/Models/SM_Prop_Log_Wire_01.fbx using Guid(7a89a95be3bafaa4a9e0860be9ef7a24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b6c3ca607d09a9d17800468855f039df') in 0.180561 seconds
+  Import took 0.182866 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002978 seconds.
+  path: Assets/PolygonApocalypse/Models/SM_Prop_Log_Wire_01.fbx
+  artifactKey: Guid(7a89a95be3bafaa4a9e0860be9ef7a24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonApocalypse/Models/SM_Prop_Log_Wire_01.fbx using Guid(7a89a95be3bafaa4a9e0860be9ef7a24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b6c3ca607d09a9d17800468855f039df') in 0.008410 seconds
+  Import took 0.010789 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.066157 seconds.
+  path: Assets/PolygonApocalypse/Models/SM_Prop_Wire_01.fbx
+  artifactKey: Guid(a19f316d9a4df054d816824cab3c8960) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonApocalypse/Models/SM_Prop_Wire_01.fbx using Guid(a19f316d9a4df054d816824cab3c8960) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8ef8decda1babddd4ffc71662073d04a') in 0.144790 seconds
+  Import took 0.147152 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000276 seconds.
+  path: Assets/PolygonApocalypse/Models/SM_Prop_Wire_02.fbx
+  artifactKey: Guid(fd61cfd1da156c0438d259c6a2ae1223) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonApocalypse/Models/SM_Prop_Wire_02.fbx using Guid(fd61cfd1da156c0438d259c6a2ae1223) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8b273770da9bd47f01129609f38d10a8') in 0.099293 seconds
+  Import took 0.101452 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000256 seconds.
+  path: Assets/PolygonApocalypse/Models/SM_Veh_Ute_01.fbx
+  artifactKey: Guid(828efc2661e31544e99ed745a2fbf1df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonApocalypse/Models/SM_Veh_Ute_01.fbx using Guid(828efc2661e31544e99ed745a2fbf1df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cda705d0273996ee03e1ffe76b7b773c') in 0.138032 seconds
+  Import took 0.140330 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000285 seconds.
+  path: Assets/PolygonFarm/Models/SM_Veh_Attach_Trailer_Cage_01.fbx
+  artifactKey: Guid(f1b6d3bbfa697124baab43eaf1d12fba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonFarm/Models/SM_Veh_Attach_Trailer_Cage_01.fbx using Guid(f1b6d3bbfa697124baab43eaf1d12fba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7e3925e8ca2fa01035700e94f851545e') in 0.120870 seconds
+  Import took 0.122998 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000250 seconds.
+  path: Assets/PolygonApocalypse/Models/SM_Prop_Wire_04.fbx
+  artifactKey: Guid(bfd1fdaf65b6ab4428d58dae7bd27cfb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonApocalypse/Models/SM_Prop_Wire_04.fbx using Guid(bfd1fdaf65b6ab4428d58dae7bd27cfb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0d882dc1121a4d674754afcbe63bfc3e') in 0.109490 seconds
+  Import took 0.111677 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000262 seconds.
+  path: Assets/PolygonApocalypse/Models/SM_Prop_Wire_03.fbx
+  artifactKey: Guid(de8fffd80bbba02478045beaa243813a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonApocalypse/Models/SM_Prop_Wire_03.fbx using Guid(de8fffd80bbba02478045beaa243813a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd9c12a4b3d1c21d2cb09201fde8a2bb6') in 0.135434 seconds
+  Import took 0.137720 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000278 seconds.
+  path: Assets/PolygonApocalypse/Models/SM_Wep_Bat_Wood_02.fbx
+  artifactKey: Guid(1777405997205a64e9315b326b8ac569) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonApocalypse/Models/SM_Wep_Bat_Wood_02.fbx using Guid(1777405997205a64e9315b326b8ac569) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bb943cecdd41af578efa4a24261a3e8e') in 0.101792 seconds
+  Import took 0.103969 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.832210 seconds.
+  path: Assets/PolygonApocalypse/Models/SM_Wep_Mod_Barrel_30.fbx
+  artifactKey: Guid(9e252bb7b7cad98459d656c2fc65352c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonApocalypse/Models/SM_Wep_Mod_Barrel_30.fbx using Guid(9e252bb7b7cad98459d656c2fc65352c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cf65dde623bd6cc6e2772b0eb5853339') in 0.102151 seconds
+  Import took 0.104598 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000268 seconds.
+  path: Assets/PolygonApocalypse/Textures/Misc/Wire_Alpha.tga
+  artifactKey: Guid(c6424f81d940c644f85fa56a97d8f295) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonApocalypse/Textures/Misc/Wire_Alpha.tga using Guid(c6424f81d940c644f85fa56a97d8f295) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c9dbad0107550ed8442dff64f65f3e07') in 0.017636 seconds
+  Import took 0.019801 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 17.975029 seconds.
+  path: Assets/PolygonParticles/Materials/FX_Plane_Particle.obj
+  artifactKey: Guid(165394ca33430ca4bbdef98f16e0c895) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonParticles/Materials/FX_Plane_Particle.obj using Guid(165394ca33430ca4bbdef98f16e0c895) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5b318be77e7ad7f8e7fa4b674390c26d') in 0.035059 seconds
+  Import took 0.037505 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000236 seconds.
+  path: Assets/PolygonNature/FX/FX_Models/Materials/pCube1Mat.mat
+  artifactKey: Guid(9e2037b85d9c6b14482bac6ac7c51cc7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonNature/FX/FX_Models/Materials/pCube1Mat.mat using Guid(9e2037b85d9c6b14482bac6ac7c51cc7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '878d707515e9f91fb4b149729793456f') in 0.106352 seconds
+  Import took 0.108511 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000272 seconds.
+  path: Assets/PolygonParticles/Materials/Materials/pCube1Mat.mat
+  artifactKey: Guid(e94141c9f6bcd2842b7557e1a1631c3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonParticles/Materials/Materials/pCube1Mat.mat using Guid(e94141c9f6bcd2842b7557e1a1631c3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5504aeaee9278df73f178f6e19c13fdf') in 0.007932 seconds
+  Import took 0.010152 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000267 seconds.
+  path: Assets/PolygonApocalypse/Models/SM_Prop_ShopCheckout_01.fbx
+  artifactKey: Guid(bf2fe4fadc0cbba48874c4de5aa4e661) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonApocalypse/Models/SM_Prop_ShopCheckout_01.fbx using Guid(bf2fe4fadc0cbba48874c4de5aa4e661) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '347c108bcf6b52bd0f5b758476374baf') in 0.080466 seconds
+  Import took 0.082652 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000256 seconds.
+  path: Assets/PolygonApocalypse/Models/SM_Prop_ShopCounter_01.fbx
+  artifactKey: Guid(b12333b3d3fe02a408132ab03b75b8a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonApocalypse/Models/SM_Prop_ShopCounter_01.fbx using Guid(b12333b3d3fe02a408132ab03b75b8a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '399c0f85fe29ef99968d0fd3270e2231') in 0.068913 seconds
+  Import took 0.071075 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000161 seconds.
+  path: Assets/PolygonApocalypse/Models/SM_Prop_ShopCounter_02.fbx
+  artifactKey: Guid(c6c82207812715b41a87d1a00d70bc41) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonApocalypse/Models/SM_Prop_ShopCounter_02.fbx using Guid(c6c82207812715b41a87d1a00d70bc41) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b5dec9d5a6aac39ac4d81871118aa8c8') in 0.074540 seconds
+  Import took 0.077045 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000233 seconds.
+  path: Assets/PolygonApocalypse/Models/SM_Prop_ShopCounter_01.fbx
+  artifactKey: Guid(b12333b3d3fe02a408132ab03b75b8a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonApocalypse/Models/SM_Prop_ShopCounter_01.fbx using Guid(b12333b3d3fe02a408132ab03b75b8a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '399c0f85fe29ef99968d0fd3270e2231') in 0.010345 seconds
+  Import took 0.012508 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 908.657276 seconds.
+  path: Assets/Animations
+  artifactKey: Guid(d524b368cf3990a4cb62181f7f3fe3b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations using Guid(d524b368cf3990a4cb62181f7f3fe3b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b731f5c86e9e25f1feaa7b39b2255900') in 0.005106 seconds
+  Import took 0.007930 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.488701 seconds.
+  path: Assets/Animations/Ch12_nonPBR@Mutant Walking.fbx
+  artifactKey: Guid(a491c6ba902729d41b489f7886dc8d44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Ch12_nonPBR@Mutant Walking.fbx using Guid(a491c6ba902729d41b489f7886dc8d44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c14d4ea2f6fba1f09be938c15968c79e') in 0.008333 seconds
+  Import took 0.011175 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000779 seconds.
+  path: Assets/Animations/Ch12_nonPBR@Walking.fbx
+  artifactKey: Guid(fd428d0bcd3d648439f0bcc78c5e7652) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Ch12_nonPBR@Walking.fbx using Guid(fd428d0bcd3d648439f0bcc78c5e7652) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '07d8ea15f7de72b1993f4900a683f5b3') in 0.008292 seconds
+  Import took 0.010777 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000213 seconds.
+  path: Assets/Animations/Ch12_nonPBR@Zombie Dying.fbx
+  artifactKey: Guid(6142cab80eb972147a5ccc875a868a12) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Ch12_nonPBR@Zombie Dying.fbx using Guid(6142cab80eb972147a5ccc875a868a12) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '976bae716d68377359d3c4f59ea1c22f') in 0.008686 seconds
+  Import took 0.011194 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000249 seconds.
+  path: Assets/Animations/mutant@Mutant Dying.fbx
+  artifactKey: Guid(d75091333e24af84fb69c7f3c3087ca6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/mutant@Mutant Dying.fbx using Guid(d75091333e24af84fb69c7f3c3087ca6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c1eaa2749c022b82f955a25fadac07fb') in 0.007195 seconds
+  Import took 0.009355 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000265 seconds.
+  path: Assets/Animations/mutant@Mutant Swiping.fbx
+  artifactKey: Guid(0e4e7c3276c16ae44a1acc7a313b6382) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/mutant@Mutant Swiping.fbx using Guid(0e4e7c3276c16ae44a1acc7a313b6382) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'acdea2c5adf29fc588aad01b9e762732') in 0.006833 seconds
+  Import took 0.009203 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000223 seconds.
+  path: Assets/Animations/Ch12_nonPBR@Zombie Death.fbx
+  artifactKey: Guid(d21ef8aa9da804644a2c35e5a3ef2282) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Ch12_nonPBR@Zombie Death.fbx using Guid(d21ef8aa9da804644a2c35e5a3ef2282) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c5dd45993ab5ad6a778c42e5edff54a7') in 0.008241 seconds
+  Import took 0.010857 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000250 seconds.
+  path: Assets/Animations/mutant@Mutant Roaring.fbx
+  artifactKey: Guid(8e3f0fbb1dc7a6045b805e34b9437c13) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/mutant@Mutant Roaring.fbx using Guid(8e3f0fbb1dc7a6045b805e34b9437c13) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e0d367ff20a4234589c52b50f74106c8') in 0.008483 seconds
+  Import took 0.010727 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000261 seconds.
+  path: Assets/Animations/Ch12_nonPBR@Zombie Run.fbx
+  artifactKey: Guid(4a4ec280699a60041a19772ccfee8fe6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Ch12_nonPBR@Zombie Run.fbx using Guid(4a4ec280699a60041a19772ccfee8fe6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '75c27b201b5b95988c1cbc2883ccf01c') in 0.007721 seconds
+  Import took 0.010341 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000224 seconds.
+  path: Assets/Animations/mutant@Jump Attack.fbx
+  artifactKey: Guid(9797b603185946f488c63eb901d6e14e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/mutant@Jump Attack.fbx using Guid(9797b603185946f488c63eb901d6e14e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd180b740a9f89fe70771ebcbf9eea200') in 0.007440 seconds
+  Import took 0.010152 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 91.733730 seconds.
+  path: Assets/Animations/Ch12_nonPBR@Mutant Walking.fbx
+  artifactKey: Guid(a491c6ba902729d41b489f7886dc8d44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Ch12_nonPBR@Mutant Walking.fbx using Guid(a491c6ba902729d41b489f7886dc8d44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7379954a3ae693be56ef06b3cf6b5137') in 0.004961 seconds
+  Import took 0.008020 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 26.554734 seconds.
+  path: Assets/Animations/Ch12_nonPBR@Walking.fbx
+  artifactKey: Guid(fd428d0bcd3d648439f0bcc78c5e7652) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Ch12_nonPBR@Walking.fbx using Guid(fd428d0bcd3d648439f0bcc78c5e7652) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '765be2ea91ee8ac262e15d86f04164f3') in 0.006450 seconds
+  Import took 0.009331 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000290 seconds.
+  path: Assets/Animations/Ch12_nonPBR@Zombie Dying.fbx
+  artifactKey: Guid(6142cab80eb972147a5ccc875a868a12) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Ch12_nonPBR@Zombie Dying.fbx using Guid(6142cab80eb972147a5ccc875a868a12) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1841018cfefeb4ef827719952f657af5') in 0.005163 seconds
+  Import took 0.007842 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000256 seconds.
+  path: Assets/Animations/mutant@Mutant Dying.fbx
+  artifactKey: Guid(d75091333e24af84fb69c7f3c3087ca6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/mutant@Mutant Dying.fbx using Guid(d75091333e24af84fb69c7f3c3087ca6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dfadad5fe5c0128c6e8f0315e9b8a48d') in 0.004207 seconds
+  Import took 0.006572 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000267 seconds.
+  path: Assets/Animations/mutant@Mutant Swiping.fbx
+  artifactKey: Guid(0e4e7c3276c16ae44a1acc7a313b6382) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/mutant@Mutant Swiping.fbx using Guid(0e4e7c3276c16ae44a1acc7a313b6382) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e796d7eb2aac4f8eb5a7e62adb458892') in 0.004300 seconds
+  Import took 0.007160 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000237 seconds.
+  path: Assets/Animations/Ch12_nonPBR@Zombie Death.fbx
+  artifactKey: Guid(d21ef8aa9da804644a2c35e5a3ef2282) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Ch12_nonPBR@Zombie Death.fbx using Guid(d21ef8aa9da804644a2c35e5a3ef2282) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7ea4e935fd758f00bed189ec5c27d2f2') in 0.005844 seconds
+  Import took 0.008829 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000163 seconds.
+  path: Assets/Animations/mutant@Mutant Roaring.fbx
+  artifactKey: Guid(8e3f0fbb1dc7a6045b805e34b9437c13) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/mutant@Mutant Roaring.fbx using Guid(8e3f0fbb1dc7a6045b805e34b9437c13) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6d5e8b08db785a108d0e05838ca9005f') in 0.004865 seconds
+  Import took 0.007653 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000259 seconds.
+  path: Assets/Animations/Ch12_nonPBR@Zombie Run.fbx
+  artifactKey: Guid(4a4ec280699a60041a19772ccfee8fe6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Ch12_nonPBR@Zombie Run.fbx using Guid(4a4ec280699a60041a19772ccfee8fe6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f445c1ef5d8e157995ccaf9bc48334ce') in 0.004219 seconds
+  Import took 0.006852 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000210 seconds.
+  path: Assets/Animations/mutant@Jump Attack.fbx
+  artifactKey: Guid(9797b603185946f488c63eb901d6e14e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/mutant@Jump Attack.fbx using Guid(9797b603185946f488c63eb901d6e14e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c5541baeb9415a69471cdbf5caa050a4') in 0.004855 seconds
+  Import took 0.007829 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 81.082178 seconds.
+  path: Assets/PolygonParticles/Prefabs/FX_Gunshot_01.prefab
+  artifactKey: Guid(b46264f9e12caed4cb53e7c2ad64aa54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonParticles/Prefabs/FX_Gunshot_01.prefab using Guid(b46264f9e12caed4cb53e7c2ad64aa54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd8e9080cc81c3a0f30eb237de11bfa56') in 0.044284 seconds
+  Import took 0.047090 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000277 seconds.
+  path: Assets/PolygonParticles/Prefabs/FX_Gunshot_Repeating.prefab
+  artifactKey: Guid(9e08e7eea9b67324f9c545b241004b0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonParticles/Prefabs/FX_Gunshot_Repeating.prefab using Guid(9e08e7eea9b67324f9c545b241004b0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7f7582d974a5b5e95d0d7f987ef18bec') in 0.006985 seconds
+  Import took 0.009307 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000255 seconds.
+  path: Assets/PolygonParticles/Prefabs/FX_Gunshot_Sniper_Line_01.prefab
+  artifactKey: Guid(07277f9efe2374047bf57bdba847e02b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonParticles/Prefabs/FX_Gunshot_Sniper_Line_01.prefab using Guid(07277f9efe2374047bf57bdba847e02b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '379517bbea849594da5167133741b46f') in 0.008250 seconds
+  Import took 0.011157 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000271 seconds.
+  path: Assets/PolygonWestern/Prefabs/FX/GunShot_Smoke_FX.prefab
+  artifactKey: Guid(2574ca206a571a342a7fab69fdfb87aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonWestern/Prefabs/FX/GunShot_Smoke_FX.prefab using Guid(2574ca206a571a342a7fab69fdfb87aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '026c6aee00cab85be4a3cd99f56aac35') in 0.037660 seconds
+  Import took 0.039950 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000238 seconds.
+  path: Assets/PolygonParticles/Prefabs/FX_Gunshot_Heavy_Repeating_Tracers_Impact_01.prefab
+  artifactKey: Guid(c0507a544f1ee7e4caa7785ef90ff92a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonParticles/Prefabs/FX_Gunshot_Heavy_Repeating_Tracers_Impact_01.prefab using Guid(c0507a544f1ee7e4caa7785ef90ff92a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bfbe08940b9a98d97525f0abc2a77f49') in 0.007544 seconds
+  Import took 0.010205 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000248 seconds.
+  path: Assets/PolygonParticles/Prefabs/FX_Gunshot_BarrelSmoke_01.prefab
+  artifactKey: Guid(ba03473dcbf31a44cb8a407076228f8e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonParticles/Prefabs/FX_Gunshot_BarrelSmoke_01.prefab using Guid(ba03473dcbf31a44cb8a407076228f8e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '594d37a35540237d6351cc9c3e04c3be') in 0.008364 seconds
+  Import took 0.010535 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000232 seconds.
+  path: Assets/PolygonApocalypse/Models/SM_Item_Bullet_Shotgun_01.fbx
+  artifactKey: Guid(8c97ecfdc2a8a804fa2c3884388feb9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonApocalypse/Models/SM_Item_Bullet_Shotgun_01.fbx using Guid(8c97ecfdc2a8a804fa2c3884388feb9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '435196452d8e3f9b0d0d0e7eab10619a') in 0.134666 seconds
+  Import took 0.137069 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000248 seconds.
+  path: Assets/PolygonApocalypse/Prefabs/Weapons/Misc/SM_Wep_FlareGun_01.prefab
+  artifactKey: Guid(2770997bfe351bd4d985f8b6244b90fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonApocalypse/Prefabs/Weapons/Misc/SM_Wep_FlareGun_01.prefab using Guid(2770997bfe351bd4d985f8b6244b90fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '84b1e4d7436c94e1458d7449aac67382') in 0.185111 seconds
+  Import took 0.189524 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000264 seconds.
+  path: Assets/PolygonApocalypse/Models/SM_Wep_AAGun_01.fbx
+  artifactKey: Guid(e0f77c55d23bfba45a716e163098d918) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonApocalypse/Models/SM_Wep_AAGun_01.fbx using Guid(e0f77c55d23bfba45a716e163098d918) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2738bf0d2b71e7ce0f8a5d018b6bb3dc') in 0.046689 seconds
+  Import took 0.049001 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000225 seconds.
+  path: Assets/PolygonParticles/Prefabs/FX_Gunshot_Shotgun_01.prefab
+  artifactKey: Guid(0e56aef02a6fcc6408400ea7c75e13a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonParticles/Prefabs/FX_Gunshot_Shotgun_01.prefab using Guid(0e56aef02a6fcc6408400ea7c75e13a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7dbd40afbe1512b574b6cb1ade234d9a') in 0.006621 seconds
+  Import took 0.008925 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000280 seconds.
+  path: Assets/PolygonParticles/Prefabs/FX_Gunshot_Heavy_Repeating_Tracers_01.prefab
+  artifactKey: Guid(20f6e929a1aba9a4691c344f454ab272) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonParticles/Prefabs/FX_Gunshot_Heavy_Repeating_Tracers_01.prefab using Guid(20f6e929a1aba9a4691c344f454ab272) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cfd9efcf5f8ba617ef77f9bb1bf56466') in 0.007423 seconds
+  Import took 0.010568 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000268 seconds.
+  path: Assets/PolygonParticles/Prefabs/FX_Gunshot_Heavy_Repeating_01.prefab
+  artifactKey: Guid(1d637701e2c3c514ca904aaddb4cc7f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonParticles/Prefabs/FX_Gunshot_Heavy_Repeating_01.prefab using Guid(1d637701e2c3c514ca904aaddb4cc7f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0f40517941f97617545c2616473e6540') in 0.007841 seconds
+  Import took 0.033075 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000246 seconds.
+  path: Assets/PolygonApocalypse/Models/SM_Wep_FlareGun_01.fbx
+  artifactKey: Guid(890610f08dbcca94b9c0c3d959930029) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonApocalypse/Models/SM_Wep_FlareGun_01.fbx using Guid(890610f08dbcca94b9c0c3d959930029) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '34772a6693a9d44bd8dc7017886523ec') in 0.037211 seconds
+  Import took 0.039513 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000250 seconds.
+  path: Assets/PolygonParticles/Prefabs/FX_Gunshot_Heavy_Single_Tracers_01.prefab
+  artifactKey: Guid(ab32929843ea40d48ae16ecaa85f794a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonParticles/Prefabs/FX_Gunshot_Heavy_Single_Tracers_01.prefab using Guid(ab32929843ea40d48ae16ecaa85f794a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0eba5f279a8cac4f5da9575a768c1aa2') in 0.007232 seconds
+  Import took 0.009768 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.449187 seconds.
+  path: Assets/PolygonParticles/Materials/PolygonParticleFX_Cutout_Round.mat
+  artifactKey: Guid(f55d44db4612b10438c11e63bc1ea9ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonParticles/Materials/PolygonParticleFX_Cutout_Round.mat using Guid(f55d44db4612b10438c11e63bc1ea9ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '457dd8ed8146df85a174c3eaa2b86049') in 0.010849 seconds
+  Import took 0.013225 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.005595 seconds.
+  path: Assets/PolygonParticles/Materials/PolygonParticleFX_Cutout_Round.mat
+  artifactKey: Guid(f55d44db4612b10438c11e63bc1ea9ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonParticles/Materials/PolygonParticleFX_Cutout_Round.mat using Guid(f55d44db4612b10438c11e63bc1ea9ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '457dd8ed8146df85a174c3eaa2b86049') in 0.006496 seconds
+  Import took 0.009352 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 74.913618 seconds.
+  path: Assets/PolygonParticles/Materials/PolygonParticleFX_Emission.mat
+  artifactKey: Guid(11110f8b297fb5842984fab30e790888) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonParticles/Materials/PolygonParticleFX_Emission.mat using Guid(11110f8b297fb5842984fab30e790888) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '23ae942d4fdc273ee7fb43b2b8dc0349') in 0.094224 seconds
+  Import took 0.096863 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004448 seconds.
+  path: Assets/PolygonParticles/Materials/PolygonParticleFX_Emission.mat
+  artifactKey: Guid(11110f8b297fb5842984fab30e790888) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonParticles/Materials/PolygonParticleFX_Emission.mat using Guid(11110f8b297fb5842984fab30e790888) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '23ae942d4fdc273ee7fb43b2b8dc0349') in 0.006317 seconds
+  Import took 0.008692 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 106.636921 seconds.
+  path: Assets/Scenes/PostApoc.unity
+  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/PostApoc.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9bc1552fd2b7bcc29bbf15769b39c5eb') in 0.003276 seconds
+  Import took 0.006107 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001081 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.26 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.812 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.28 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1238 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 100.9 MB.
+System memory in use after: 101.0 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1812.
+Total: 2.052100 ms (FindLiveObjects: 0.149600 ms CreateObjectMapping: 0.073700 ms MarkObjects: 1.746400 ms  DeleteObjects: 0.081300 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 112.757210 seconds.
+  path: Assets/PolygonParticles/Prefabs
+  artifactKey: Guid(6ffb2d6e0933bb742bf8c56cb03c26b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonParticles/Prefabs using Guid(6ffb2d6e0933bb742bf8c56cb03c26b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '271cace7a762ba94ce08f4783cf3aab1') in 0.035195 seconds
+  Import took 0.037942 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.106960 seconds.
+  path: Assets/PolygonParticles/Prefabs/FX_ArtilleryShell_01.prefab
+  artifactKey: Guid(d60e1bbe20a224f47955cf3a78063800) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonParticles/Prefabs/FX_ArtilleryShell_01.prefab using Guid(d60e1bbe20a224f47955cf3a78063800) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e2032add96dfc0d98f65017f769e1a74') in 0.037675 seconds
+  Import took 0.040692 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000263 seconds.
+  path: Assets/PolygonParticles/Prefabs/FX_Fire_Huge_01.prefab
+  artifactKey: Guid(c54fceec5f7d4b44f9dc266a7e5f1e69) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonParticles/Prefabs/FX_Fire_Huge_01.prefab using Guid(c54fceec5f7d4b44f9dc266a7e5f1e69) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ef7598118b6c01da31aeaa020bbf0a7c') in 0.006481 seconds
+  Import took 0.008747 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000261 seconds.
+  path: Assets/PolygonParticles/Prefabs/FX_Direction_Arrows_02.prefab
+  artifactKey: Guid(cd89c56a1fcd0534a946f51a4cf9e51b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonParticles/Prefabs/FX_Direction_Arrows_02.prefab using Guid(cd89c56a1fcd0534a946f51a4cf9e51b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '221eb179ade4a2018cf419758d81436f') in 0.006762 seconds
+  Import took 0.008953 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000204 seconds.
+  path: Assets/PolygonParticles/Prefabs/FX_Embers_01.prefab
+  artifactKey: Guid(0408eb392f6850340809db1a980a2d30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonParticles/Prefabs/FX_Embers_01.prefab using Guid(0408eb392f6850340809db1a980a2d30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '57759695e2462f13a40f9995af6491e3') in 0.007329 seconds
+  Import took 0.009629 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000234 seconds.
+  path: Assets/PolygonParticles/Prefabs/FX_Explosion_Large_Dark_01.prefab
+  artifactKey: Guid(4cf45cdce36e66e4a93614abb5ae7821) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonParticles/Prefabs/FX_Explosion_Large_Dark_01.prefab using Guid(4cf45cdce36e66e4a93614abb5ae7821) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0b0e378fe86c9e3c0e45af838a9f52e5') in 0.014879 seconds
+  Import took 0.017652 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000231 seconds.
+  path: Assets/PolygonParticles/Prefabs/FX_BloodSplat_Small_01.prefab
+  artifactKey: Guid(ed67c2cb8e3a7fb418c6fbb1b001dce2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonParticles/Prefabs/FX_BloodSplat_Small_01.prefab using Guid(ed67c2cb8e3a7fb418c6fbb1b001dce2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c5f9d56d079c0f4f8fd480e07b2a2618') in 0.006517 seconds
+  Import took 0.009015 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000264 seconds.
+  path: Assets/PolygonParticles/Prefabs/FX_Cartoony_Jump_Up_01.prefab
+  artifactKey: Guid(f81ea73a47d926143906b9d543948dc0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonParticles/Prefabs/FX_Cartoony_Jump_Up_01.prefab using Guid(f81ea73a47d926143906b9d543948dc0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2f77313ce9d383d2ccf98e15a485885d') in 0.006824 seconds
+  Import took 0.009183 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000176 seconds.
+  path: Assets/PolygonParticles/Prefabs/FX_Direction_Arrows_03.prefab
+  artifactKey: Guid(162d349d1974cff47b0c8fb20111891b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonParticles/Prefabs/FX_Direction_Arrows_03.prefab using Guid(162d349d1974cff47b0c8fb20111891b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '256d49ee138d6305dcc74813dcf15129') in 0.007157 seconds
+  Import took 0.009546 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000264 seconds.
+  path: Assets/PolygonParticles/Prefabs/FX_Explosion_Body_01.prefab
+  artifactKey: Guid(a1a36200a3c61b34b9abfaed1373f4cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonParticles/Prefabs/FX_Explosion_Body_01.prefab using Guid(a1a36200a3c61b34b9abfaed1373f4cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2e6b1548547b6643eefa09dbeb10aea9') in 0.008350 seconds
+  Import took 0.011266 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000261 seconds.
+  path: Assets/PolygonParticles/Prefabs/FX_Fire_Small_01.prefab
+  artifactKey: Guid(c3039019fa1c65840b1b35eed158363c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonParticles/Prefabs/FX_Fire_Small_01.prefab using Guid(c3039019fa1c65840b1b35eed158363c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '69be3b096af5ac0772ccfeaadc9c4854') in 0.007028 seconds
+  Import took 0.009590 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000277 seconds.
+  path: Assets/PolygonParticles/Prefabs/FX_Dust_Blowing_Soft_01.prefab
+  artifactKey: Guid(4ae26ac0289f55948bb14bd1da6bf042) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonParticles/Prefabs/FX_Dust_Blowing_Soft_01.prefab using Guid(4ae26ac0289f55948bb14bd1da6bf042) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '35862770c6a2d6d522c49a2228c1251e') in 0.006058 seconds
+  Import took 0.008319 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000260 seconds.
+  path: Assets/PolygonParticles/Prefabs/FX_Dust_Small_01.prefab
+  artifactKey: Guid(d599d264aedd3aa4684f39e078823d4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonParticles/Prefabs/FX_Dust_Small_01.prefab using Guid(d599d264aedd3aa4684f39e078823d4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '240f073537aabb6f099d4dc66dbb7a0b') in 0.006159 seconds
+  Import took 0.008424 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000237 seconds.
+  path: Assets/PolygonParticles/Prefabs/FX_Electricity_02.prefab
+  artifactKey: Guid(a22bb852cf433044e8752ea7fe62f570) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonParticles/Prefabs/FX_Electricity_02.prefab using Guid(a22bb852cf433044e8752ea7fe62f570) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '36a2ec9b15861c07a77db145f68c9497') in 0.007236 seconds
+  Import took 0.009636 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000265 seconds.
+  path: Assets/PolygonParticles/Prefabs/FX_Fire_01.prefab
+  artifactKey: Guid(7c2d45330a7b1894ca1aacb0ebd30599) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonParticles/Prefabs/FX_Fire_01.prefab using Guid(7c2d45330a7b1894ca1aacb0ebd30599) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '53526f0621722791b0ce7d1585a21235') in 0.034646 seconds
+  Import took 0.036942 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000154 seconds.
+  path: Assets/PolygonParticles/Prefabs/FX_Direction_Arrows_01.prefab
+  artifactKey: Guid(4aee0d2dc836414499493a1cc6872c3d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonParticles/Prefabs/FX_Direction_Arrows_01.prefab using Guid(4aee0d2dc836414499493a1cc6872c3d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8e7d5612cf66d98c4bc5aeba4479329f') in 0.008038 seconds
+  Import took 0.010456 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000258 seconds.
+  path: Assets/PolygonParticles/Prefabs/FX_Cartoony_Footstep_01.prefab
+  artifactKey: Guid(2397083e876e5b1408fcc1333f50c082) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonParticles/Prefabs/FX_Cartoony_Footstep_01.prefab using Guid(2397083e876e5b1408fcc1333f50c082) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4455a11eca17a1b13b7ef31460917b5f') in 0.007390 seconds
+  Import took 0.010450 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000212 seconds.
+  path: Assets/PolygonParticles/Prefabs/FX_Blizzard_Snow_01.prefab
+  artifactKey: Guid(b216287c7b0df214682d7ed3030d9e99) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonParticles/Prefabs/FX_Blizzard_Snow_01.prefab using Guid(b216287c7b0df214682d7ed3030d9e99) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5a742220bbf8d3927ea0e0d9b52452c9') in 0.006411 seconds
+  Import took 0.009292 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000207 seconds.
+  path: Assets/PolygonParticles/Prefabs/FX_CannonShot_01.prefab
+  artifactKey: Guid(f72f0eb4a0fb5934fab797add8da8711) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonParticles/Prefabs/FX_CannonShot_01.prefab using Guid(f72f0eb4a0fb5934fab797add8da8711) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '19bd65d1185ce23374afedaa8718886d') in 0.008580 seconds
+  Import took 0.011286 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000258 seconds.
+  path: Assets/PolygonParticles/Prefabs/FX_Cartoony_Sprint_01.prefab
+  artifactKey: Guid(414f21f548178584899720a59520163e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonParticles/Prefabs/FX_Cartoony_Sprint_01.prefab using Guid(414f21f548178584899720a59520163e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '07430a63bbfa84ace24b60d8a85dc537') in 0.006134 seconds
+  Import took 0.008645 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000271 seconds.
+  path: Assets/PolygonParticles/Prefabs/FX_Fire_Big_03.prefab
+  artifactKey: Guid(aafad909270f83046bc79c06fe30321a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonParticles/Prefabs/FX_Fire_Big_03.prefab using Guid(aafad909270f83046bc79c06fe30321a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '06b2a302283257e1c44607895faf1ed7') in 0.006853 seconds
+  Import took 0.009514 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000277 seconds.
+  path: Assets/PolygonParticles/Prefabs/FX_Confetti_Falling_01.prefab
+  artifactKey: Guid(19c065b476ca9a24e839e181a781c36c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonParticles/Prefabs/FX_Confetti_Falling_01.prefab using Guid(19c065b476ca9a24e839e181a781c36c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '185c77121cf8e5b72255f018e633b318') in 0.006445 seconds
+  Import took 0.008722 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000251 seconds.
+  path: Assets/PolygonParticles/Prefabs/FX_Dust_Big_01.prefab
+  artifactKey: Guid(b8f929e2e3a24894db6cbd97a2a83429) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonParticles/Prefabs/FX_Dust_Big_01.prefab using Guid(b8f929e2e3a24894db6cbd97a2a83429) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8eb75f5a0c35160284303944c6683949') in 0.005961 seconds
+  Import took 0.008246 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000245 seconds.
+  path: Assets/PolygonParticles/Prefabs/FX_Fire_Big_02.prefab
+  artifactKey: Guid(508c9f007a2bf724d88361f16953bbac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonParticles/Prefabs/FX_Fire_Big_02.prefab using Guid(508c9f007a2bf724d88361f16953bbac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fecd1a67ea5467bfe6b2b651357f303c') in 0.006714 seconds
+  Import took 0.009184 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000282 seconds.
+  path: Assets/PolygonParticles/Prefabs/FX_ExperienceGain_01.prefab
+  artifactKey: Guid(7bfa717c06cd39a4caa982d7615971fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonParticles/Prefabs/FX_ExperienceGain_01.prefab using Guid(7bfa717c06cd39a4caa982d7615971fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8d50aca552525004ed7214ccbea26fdf') in 0.005888 seconds
+  Import took 0.008418 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000200 seconds.
+  path: Assets/PolygonParticles/Prefabs/FX_Bubbles_Float_01.prefab
+  artifactKey: Guid(cd8a919d250921a47b55356e13bc37f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonParticles/Prefabs/FX_Bubbles_Float_01.prefab using Guid(cd8a919d250921a47b55356e13bc37f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ae7b7290cd55b59304ed1998eaf9729f') in 0.006331 seconds
+  Import took 0.008677 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000303 seconds.
+  path: Assets/PolygonParticles/Prefabs/FX_Bubble_01.prefab
+  artifactKey: Guid(c15d2abbd967ac944a571134fa3755df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonParticles/Prefabs/FX_Bubble_01.prefab using Guid(c15d2abbd967ac944a571134fa3755df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fde8dceb718a1e920b316841301653b0') in 0.006215 seconds
+  Import took 0.008533 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000260 seconds.
+  path: Assets/PolygonParticles/Prefabs/FX_Cartoony_Rings_01.prefab
+  artifactKey: Guid(3b6cfde4f3deb8d4c9146d2e65ed12e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonParticles/Prefabs/FX_Cartoony_Rings_01.prefab using Guid(3b6cfde4f3deb8d4c9146d2e65ed12e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6a5df453ab1041fb83c922993e210cfd') in 0.006777 seconds
+  Import took 0.009248 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000193 seconds.
+  path: Assets/PolygonParticles/Prefabs/FX_Fire_Big_01.prefab
+  artifactKey: Guid(d5e400a2a0d155d4db9970614680534f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonParticles/Prefabs/FX_Fire_Big_01.prefab using Guid(d5e400a2a0d155d4db9970614680534f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0d209306311943ec25b79801a90291e6') in 0.006495 seconds
+  Import took 0.009360 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000192 seconds.
+  path: Assets/PolygonParticles/Prefabs/FX_Explosion_Body_Bloody_01.prefab
+  artifactKey: Guid(3b517eddec185dd4a830743a742ad00b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonParticles/Prefabs/FX_Explosion_Body_Bloody_01.prefab using Guid(3b517eddec185dd4a830743a742ad00b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c9b7d186f0985aadc247b15a60e1cc7b') in 0.007458 seconds
+  Import took 0.010356 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000224 seconds.
+  path: Assets/PolygonParticles/Prefabs/FX_Fire_Explosion_01.prefab
+  artifactKey: Guid(ed511b7776af6174e9b1255c7a81e59c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonParticles/Prefabs/FX_Fire_Explosion_01.prefab using Guid(ed511b7776af6174e9b1255c7a81e59c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '94ca3305d6669f4b7c47a7d7d85dbe4a') in 0.006780 seconds
+  Import took 0.009859 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000224 seconds.
+  path: Assets/PolygonParticles/Prefabs/FX_ArtilleryStrike_01.prefab
+  artifactKey: Guid(d8628f56ce986894a9be0c0fc92627bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonParticles/Prefabs/FX_ArtilleryStrike_01.prefab using Guid(d8628f56ce986894a9be0c0fc92627bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8427727f605f3020617df61d14710c36') in 0.007454 seconds
+  Import took 0.010378 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000255 seconds.
+  path: Assets/PolygonParticles/Prefabs/FX_Cartoony_Jump_01.prefab
+  artifactKey: Guid(05f7c156786bd024e8da3bb1a4b8aa09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonParticles/Prefabs/FX_Cartoony_Jump_01.prefab using Guid(05f7c156786bd024e8da3bb1a4b8aa09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cf0dd6eb9ad61233707416285b11f485') in 0.007236 seconds
+  Import took 0.009844 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000191 seconds.
+  path: Assets/PolygonParticles/Prefabs/FX_Explosion_01.prefab
+  artifactKey: Guid(65932b7368590234d8163da03c2055d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonParticles/Prefabs/FX_Explosion_01.prefab using Guid(65932b7368590234d8163da03c2055d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fbcad79cb2f82d6162b8d2ea182c4877') in 0.006225 seconds
+  Import took 0.008674 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000211 seconds.
+  path: Assets/PolygonParticles/Prefabs/FX_Confetti_01.prefab
+  artifactKey: Guid(4171bb92c5c591848b14be1db6f3efe2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonParticles/Prefabs/FX_Confetti_01.prefab using Guid(4171bb92c5c591848b14be1db6f3efe2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '49b42d1986b2bdd33aeeb772d7bc909c') in 0.007550 seconds
+  Import took 0.010152 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000227 seconds.
+  path: Assets/PolygonParticles/Prefabs/FX_BloodSplat_01.prefab
+  artifactKey: Guid(4430919f14c50f84085d287cbcb2c30e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonParticles/Prefabs/FX_BloodSplat_01.prefab using Guid(4430919f14c50f84085d287cbcb2c30e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '591b704df45cd607a2684c402223d369') in 0.010075 seconds
+  Import took 0.012443 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000274 seconds.
+  path: Assets/PolygonParticles/Prefabs/FX_Electricity_01.prefab
+  artifactKey: Guid(c445b201205907b4f90b242a07f4dbc9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonParticles/Prefabs/FX_Electricity_01.prefab using Guid(c445b201205907b4f90b242a07f4dbc9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b8d4c272c83363fd6d111b9f72b63d58') in 0.006508 seconds
+  Import took 0.009189 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000291 seconds.
+  path: Assets/PolygonParticles/Prefabs/FX_Fairy_01.prefab
+  artifactKey: Guid(4baff87aa850bb94fbaeecfbaaaa1ba1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonParticles/Prefabs/FX_Fairy_01.prefab using Guid(4baff87aa850bb94fbaeecfbaaaa1ba1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '581d4a8f74c52a999f8c55d84d45e904') in 0.006344 seconds
+  Import took 0.009111 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 15.268663 seconds.
+  path: Assets/PolygonApocalypse/Prefabs/FX/Misc/SM_Wep_Ammo_BulletLarge_01.fbx
+  artifactKey: Guid(9617305e7e2c7094fb534b7d3afc9a58) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonApocalypse/Prefabs/FX/Misc/SM_Wep_Ammo_BulletLarge_01.fbx using Guid(9617305e7e2c7094fb534b7d3afc9a58) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0c69f5f068a3470470baf6e58e129d7d') in 0.080458 seconds
+  Import took 0.083426 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 24.236319 seconds.
+  path: Assets/PolygonParticles/Materials/PolygonParticleFX_Empty.mat
+  artifactKey: Guid(0d02cd2cee6d0c548b6d6ee74d16e74b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonParticles/Materials/PolygonParticleFX_Empty.mat using Guid(0d02cd2cee6d0c548b6d6ee74d16e74b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8b4c72d7c55eda1e90bdd874c7a220f0') in 0.047054 seconds
+  Import took 0.049458 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 20.820295 seconds.
+  path: Assets/Scenes/PostApoc.unity
+  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/PostApoc.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '335f03a994185182caaff64f3d9751d7') in 0.002371 seconds
+  Import took 0.004981 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001161 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.91 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.894 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.87 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1238 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 101.1 MB.
+System memory in use after: 101.1 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1818.
+Total: 2.049300 ms (FindLiveObjects: 0.196300 ms CreateObjectMapping: 0.062000 ms MarkObjects: 1.595800 ms  DeleteObjects: 0.193800 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 470.303090 seconds.
+  path: Assets/PolygonParticles/Models/SM_Flame_FX.fbx
+  artifactKey: Guid(860f45db46c9a3e4a9bc3a4d3c5dc882) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonParticles/Models/SM_Flame_FX.fbx using Guid(860f45db46c9a3e4a9bc3a4d3c5dc882) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b704e9509b3bca7b73d4e451f0fbba59') in 0.092592 seconds
+  Import took 0.095705 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 212.082921 seconds.
+  path: Assets/PolygonNature/FX/FX_Models/SM_Particle_Smoke_01.fbx
+  artifactKey: Guid(41e18b74cd8bd984b94d58c040bb66da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonNature/FX/FX_Models/SM_Particle_Smoke_01.fbx using Guid(41e18b74cd8bd984b94d58c040bb66da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'efabc3ee007c5cb32016dcbbb3fcf4ea') in 0.032085 seconds
+  Import took 0.035150 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 71.365502 seconds.
+  path: Assets/PolygonWestern/Materials/Misc/FX_Dust.mat
+  artifactKey: Guid(cd97a4f0bfba00a46a4a29156f2a23bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonWestern/Materials/Misc/FX_Dust.mat using Guid(cd97a4f0bfba00a46a4a29156f2a23bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0ac25d774bb780891f06770130088412') in 0.050436 seconds
+  Import took 0.052876 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 110.892039 seconds.
+  path: Assets/Scenes/PostApoc.unity
+  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/PostApoc.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4e2b72798757b8bd59475f792856188b') in 0.006549 seconds
+  Import took 0.009165 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000691 seconds.
+  path: Assets/Scenes/PostApoc.unity
+  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/PostApoc.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4e2b72798757b8bd59475f792856188b') in 0.001598 seconds
+  Import took 0.004147 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.054142 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.09 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  5.282 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.91 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1238 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 101.1 MB.
+System memory in use after: 101.2 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 1822.
+Total: 1.781400 ms (FindLiveObjects: 0.148800 ms CreateObjectMapping: 0.033400 ms MarkObjects: 1.502400 ms  DeleteObjects: 0.095900 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 377.326319 seconds.
+  path: Assets/PolygonParticles/Materials/PolygonParticleFX_Cutout_Round_VertexLit.mat
+  artifactKey: Guid(a56a6d4404bb5944c8e5a9bd16f2b31e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonParticles/Materials/PolygonParticleFX_Cutout_Round_VertexLit.mat using Guid(a56a6d4404bb5944c8e5a9bd16f2b31e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'af9b098b40ba99b8ccf50c846e527d9b') in 0.120544 seconds
+  Import took 0.124031 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 305.106446 seconds.
+  path: Assets/Animation Controllers
+  artifactKey: Guid(b32effc1bdfdab343b1a9c73dcafac3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animation Controllers using Guid(b32effc1bdfdab343b1a9c73dcafac3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b21008635ab35eca6ca0c13afbc58eb1') in 0.004994 seconds
+  Import took 0.007553 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.104382 seconds.
+  path: Assets/Animation Controllers/BigBossZombie.controller
+  artifactKey: Guid(9839a768bea7bb141ba4a119c94c6ae1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animation Controllers/BigBossZombie.controller using Guid(9839a768bea7bb141ba4a119c94c6ae1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5bb646305b68f5fe5f87523f69d4e068') in 0.009302 seconds
+  Import took 0.011636 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000759 seconds.
+  path: Assets/Animation Controllers/BigBossZombie.controller
+  artifactKey: Guid(9839a768bea7bb141ba4a119c94c6ae1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animation Controllers/BigBossZombie.controller using Guid(9839a768bea7bb141ba4a119c94c6ae1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5bb646305b68f5fe5f87523f69d4e068') in 0.002164 seconds
+  Import took 0.004413 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 26.420991 seconds.
+  path: Assets/Animations/MutantWalking.fbx
+  artifactKey: Guid(a491c6ba902729d41b489f7886dc8d44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/MutantWalking.fbx using Guid(a491c6ba902729d41b489f7886dc8d44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b96875963b1588e3ecf9cd82c58fa9f9') in 0.013975 seconds
+  Import took 0.016974 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 13.902634 seconds.
+  path: Assets/Animations/ZombieWalking.fbx
+  artifactKey: Guid(fd428d0bcd3d648439f0bcc78c5e7652) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/ZombieWalking.fbx using Guid(fd428d0bcd3d648439f0bcc78c5e7652) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ee225f58d5af54518fb3ff723f29bc52') in 0.007781 seconds
+  Import took 0.010958 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 21.439006 seconds.
+  path: Assets/Animations/ZombieDeathBack.fbx
+  artifactKey: Guid(d21ef8aa9da804644a2c35e5a3ef2282) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/ZombieDeathBack.fbx using Guid(d21ef8aa9da804644a2c35e5a3ef2282) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f802f1c562cc40c50e70156a8912ef98') in 0.008014 seconds
+  Import took 0.010825 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 13.799662 seconds.
+  path: Assets/Animations/ZombieDeathForward.fbx
+  artifactKey: Guid(6142cab80eb972147a5ccc875a868a12) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/ZombieDeathForward.fbx using Guid(6142cab80eb972147a5ccc875a868a12) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e10be081b6889c2bb4bc9a434e125038') in 0.008228 seconds
+  Import took 0.010793 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.818312 seconds.
+  path: Assets/Animations/ZombieRun.fbx
+  artifactKey: Guid(4a4ec280699a60041a19772ccfee8fe6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/ZombieRun.fbx using Guid(4a4ec280699a60041a19772ccfee8fe6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd1b7ad707637b5c427cbfcf06c7233b0') in 0.007751 seconds
+  Import took 0.010286 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 14.542827 seconds.
+  path: Assets/Animations/MutantJumpAttack.fbx
+  artifactKey: Guid(9797b603185946f488c63eb901d6e14e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/MutantJumpAttack.fbx using Guid(9797b603185946f488c63eb901d6e14e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'efd91e4825d3a4c0f1216011f6f97e36') in 0.007936 seconds
+  Import took 0.010963 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 34.264750 seconds.
+  path: Assets/Animations/MutantDeath.fbx
+  artifactKey: Guid(d75091333e24af84fb69c7f3c3087ca6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/MutantDeath.fbx using Guid(d75091333e24af84fb69c7f3c3087ca6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '929ba7b2d2a631a43f28de6c4a9c31ef') in 0.007452 seconds
+  Import took 0.009892 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 14.395646 seconds.
+  path: Assets/Animations/MutantDeath.fbx
+  artifactKey: Guid(d75091333e24af84fb69c7f3c3087ca6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/MutantDeath.fbx using Guid(d75091333e24af84fb69c7f3c3087ca6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f63ffae148343737329d30ee8a9215d2') in 0.004314 seconds
+  Import took 0.006871 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000811 seconds.
+  path: Assets/Animations/MutantDeath.fbx
+  artifactKey: Guid(d75091333e24af84fb69c7f3c3087ca6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/MutantDeath.fbx using Guid(d75091333e24af84fb69c7f3c3087ca6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f63ffae148343737329d30ee8a9215d2') in 0.005338 seconds
+  Import took 0.007768 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 494.282142 seconds.
+  path: Assets/Animations/mutantRoaring.fbx
+  artifactKey: Guid(8e3f0fbb1dc7a6045b805e34b9437c13) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/mutantRoaring.fbx using Guid(8e3f0fbb1dc7a6045b805e34b9437c13) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4abc0dc17f0f353c68adb46aa64ea432') in 0.008521 seconds
+  Import took 0.011994 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.640260 seconds.
+  path: Assets/PolygonBossZombies/Models/SM_Chr_Attach_Slobber_Hair_01.fbx
+  artifactKey: Guid(286e3e23b17b2e1429b1629088f81579) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonBossZombies/Models/SM_Chr_Attach_Slobber_Hair_01.fbx using Guid(286e3e23b17b2e1429b1629088f81579) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aa6563aa2a75ab8ff23aca7d30ffc447') in 0.096490 seconds
+  Import took 0.099200 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000382 seconds.
+  path: Assets/PolygonBossZombies/Models/SM_Chr_Attach_Wretch_Hair_01.fbx
+  artifactKey: Guid(f19d80585bf203643b5528e0eb2f9bee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonBossZombies/Models/SM_Chr_Attach_Wretch_Hair_01.fbx using Guid(f19d80585bf203643b5528e0eb2f9bee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '30a5a604b9ac04b4dcd25be5dabbdaf7') in 0.056352 seconds
+  Import took 0.058613 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000216 seconds.
+  path: Assets/PolygonBossZombies/Models/SM_Chr_Attach_Wretch_Hair_02.fbx
+  artifactKey: Guid(58e6f69c4479d594e917da1e20dda81e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonBossZombies/Models/SM_Chr_Attach_Wretch_Hair_02.fbx using Guid(58e6f69c4479d594e917da1e20dda81e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4ecdfdcc717cc94a0ae7f93e6ce31870') in 0.025925 seconds
+  Import took 0.028135 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000219 seconds.
+  path: Assets/PolygonBossZombies/Models/SM_Chr_Attach_Wretch_Hair_01.fbx
+  artifactKey: Guid(f19d80585bf203643b5528e0eb2f9bee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonBossZombies/Models/SM_Chr_Attach_Wretch_Hair_01.fbx using Guid(f19d80585bf203643b5528e0eb2f9bee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '30a5a604b9ac04b4dcd25be5dabbdaf7') in 0.011988 seconds
+  Import took 0.014237 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000277 seconds.
+  path: Assets/PolygonBossZombies/Models/SM_Chr_Attach_Wretch_Hair_02.fbx
+  artifactKey: Guid(58e6f69c4479d594e917da1e20dda81e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonBossZombies/Models/SM_Chr_Attach_Wretch_Hair_02.fbx using Guid(58e6f69c4479d594e917da1e20dda81e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4ecdfdcc717cc94a0ae7f93e6ce31870') in 0.012364 seconds
+  Import took 0.014697 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000228 seconds.
+  path: Assets/PolygonBossZombies/Models/SM_Chr_Attach_Slobber_Hair_01.fbx
+  artifactKey: Guid(286e3e23b17b2e1429b1629088f81579) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonBossZombies/Models/SM_Chr_Attach_Slobber_Hair_01.fbx using Guid(286e3e23b17b2e1429b1629088f81579) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aa6563aa2a75ab8ff23aca7d30ffc447') in 0.008829 seconds
+  Import took 0.011077 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 61.750767 seconds.
+  path: Assets/PolygonBossZombies/Models/SM_Chr_Attach_Blobber_Hair_01.fbx
+  artifactKey: Guid(8bb5ddf0ff5b59244956efce3fff24bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonBossZombies/Models/SM_Chr_Attach_Blobber_Hair_01.fbx using Guid(8bb5ddf0ff5b59244956efce3fff24bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b9a6fde3e1b1d5f6f5c094dfaedf28a1') in 0.045315 seconds
+  Import took 0.047731 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000274 seconds.
+  path: Assets/PolygonBossZombies/Models/SM_Chr_Attach_Slobber_FacialHair_01.fbx
+  artifactKey: Guid(991b2e06d0d95cd489d8ecc2e13d8a5b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonBossZombies/Models/SM_Chr_Attach_Slobber_FacialHair_01.fbx using Guid(991b2e06d0d95cd489d8ecc2e13d8a5b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd19a9e6406716097a56f72041ea32458') in 0.012222 seconds
+  Import took 0.014535 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000200 seconds.
+  path: Assets/PolygonBossZombies/Models/SM_Chr_Attach_Blobber_Hair_02.fbx
+  artifactKey: Guid(30d87f1cd359b8a4d9bae784ee8254f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonBossZombies/Models/SM_Chr_Attach_Blobber_Hair_02.fbx using Guid(30d87f1cd359b8a4d9bae784ee8254f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a2741f33e5bb30051c5cb0e9367288a1') in 0.013149 seconds
+  Import took 0.015487 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000255 seconds.
+  path: Assets/PolygonBossZombies/Models/SM_Chr_Attach_Brute_Bandana_01.fbx
+  artifactKey: Guid(283bb8c83e58bbb469090dd3422ecdfb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonBossZombies/Models/SM_Chr_Attach_Brute_Bandana_01.fbx using Guid(283bb8c83e58bbb469090dd3422ecdfb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'efde2ed3648238503e4357eb0f89a6c3') in 0.013113 seconds
+  Import took 0.015404 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000205 seconds.
+  path: Assets/PolygonBossZombies/Models/SM_Chr_Attach_Brute_Hair_01.fbx
+  artifactKey: Guid(851e198ed62ac4f4c869b1906792c773) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonBossZombies/Models/SM_Chr_Attach_Brute_Hair_01.fbx using Guid(851e198ed62ac4f4c869b1906792c773) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a16f94de9d15d40b6b21d6cce683dcb9') in 0.012987 seconds
+  Import took 0.016004 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000226 seconds.
+  path: Assets/PolygonBossZombies/Models/SM_Chr_Attach_Brute_Hair_02.fbx
+  artifactKey: Guid(994433f9fa9bea84194d50d8af74aa33) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonBossZombies/Models/SM_Chr_Attach_Brute_Hair_02.fbx using Guid(994433f9fa9bea84194d50d8af74aa33) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1908a4a7d10ef5cac17bfadef199ad01') in 0.012753 seconds
+  Import took 0.015608 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000287 seconds.
+  path: Assets/PolygonBossZombies/Models/SM_Chr_Attach_Blobber_Tiara_01.fbx
+  artifactKey: Guid(a184add70a1191344b1055f002e6aa87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonBossZombies/Models/SM_Chr_Attach_Blobber_Tiara_01.fbx using Guid(a184add70a1191344b1055f002e6aa87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0552335dc4870ca59baa8bfb1877cb1b') in 0.011937 seconds
+  Import took 0.014296 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000215 seconds.
+  path: Assets/PolygonBossZombies/Models/SM_Chr_Attach_Brute_Extra_01.fbx
+  artifactKey: Guid(c87eabe799579cd40aa5b3f2eb771b46) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonBossZombies/Models/SM_Chr_Attach_Brute_Extra_01.fbx using Guid(c87eabe799579cd40aa5b3f2eb771b46) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7158fe97eb6221051c0e7434e4d61224') in 0.012278 seconds
+  Import took 0.014461 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000236 seconds.
+  path: Assets/PolygonBossZombies/Models/SM_Chr_Attach_Blobber_Tiara_02.fbx
+  artifactKey: Guid(7104916b05c267640a8f61f9d08fec26) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonBossZombies/Models/SM_Chr_Attach_Blobber_Tiara_02.fbx using Guid(7104916b05c267640a8f61f9d08fec26) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eb4657e62c233b2e86d7c019c2d7f934') in 0.012195 seconds
+  Import took 0.014325 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 24.089163 seconds.
+  path: Assets/Animations/mutantAttack.fbx
+  artifactKey: Guid(0e4e7c3276c16ae44a1acc7a313b6382) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/mutantAttack.fbx using Guid(0e4e7c3276c16ae44a1acc7a313b6382) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2a8e0968253bb868949fbe4898021aef') in 0.008009 seconds
+  Import took 0.010627 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001145 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
 Refreshing native plugins compatible for Editor in 0.77 ms, found 0 plugins.
@@ -59,393 +1392,621 @@ Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.779 seconds
+- Completed reload, in  0.753 seconds
 Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.83 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1238 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 101.1 MB.
+System memory in use after: 101.2 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1826.
+Total: 1.863900 ms (FindLiveObjects: 0.153800 ms CreateObjectMapping: 0.035400 ms MarkObjects: 1.524700 ms  DeleteObjects: 0.148800 ms)
+
 ========================================================================
-Worker process is ready to serve import requests
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001573 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.76 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.756 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.77 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1238 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 101.1 MB.
+System memory in use after: 101.2 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1829.
+Total: 1.929400 ms (FindLiveObjects: 0.229400 ms CreateObjectMapping: 0.057200 ms MarkObjects: 1.516800 ms  DeleteObjects: 0.124500 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 337.923121 seconds.
+  path: Assets/Animations/MutantDeath.fbx
+  artifactKey: Guid(d75091333e24af84fb69c7f3c3087ca6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/MutantDeath.fbx using Guid(d75091333e24af84fb69c7f3c3087ca6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '567daf06c522527f0ae638d9d41915bd') in 0.025245 seconds
+  Import took 0.028136 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001135 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.86 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.730 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.77 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1238 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 101.1 MB.
+System memory in use after: 101.2 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1832.
+Total: 1.778800 ms (FindLiveObjects: 0.188100 ms CreateObjectMapping: 0.044600 ms MarkObjects: 1.463000 ms  DeleteObjects: 0.082100 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 199.967485 seconds.
+  path: Assets/Animations/mutantAttack.fbx
+  artifactKey: Guid(0e4e7c3276c16ae44a1acc7a313b6382) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/mutantAttack.fbx using Guid(0e4e7c3276c16ae44a1acc7a313b6382) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c4cba74106d1185c26a696237c460d76') in 0.034113 seconds
+  Import took 0.036894 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.982674 seconds.
+  path: Assets/Animations/MutantDeath.fbx
+  artifactKey: Guid(d75091333e24af84fb69c7f3c3087ca6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/MutantDeath.fbx using Guid(d75091333e24af84fb69c7f3c3087ca6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '77c2d6a2bad6c072f0b6e66466881074') in 0.004247 seconds
+  Import took 0.006855 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001216 seconds.
+  path: Assets/Animations/MutantDeath.fbx
+  artifactKey: Guid(d75091333e24af84fb69c7f3c3087ca6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/MutantDeath.fbx using Guid(d75091333e24af84fb69c7f3c3087ca6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '77c2d6a2bad6c072f0b6e66466881074') in 0.004537 seconds
+  Import took 0.007095 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.261843 seconds.
+  path: Assets/Animations/MutantJumpAttack.fbx
+  artifactKey: Guid(9797b603185946f488c63eb901d6e14e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/MutantJumpAttack.fbx using Guid(9797b603185946f488c63eb901d6e14e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5dc908151da8c19313266a0f9523466f') in 0.004892 seconds
+  Import took 0.008160 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.938368 seconds.
+  path: Assets/Animations/mutantRoaring.fbx
+  artifactKey: Guid(8e3f0fbb1dc7a6045b805e34b9437c13) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/mutantRoaring.fbx using Guid(8e3f0fbb1dc7a6045b805e34b9437c13) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '634e0c9e2a89b245ee22e14f304c691a') in 0.004505 seconds
+  Import took 0.007049 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.660870 seconds.
+  path: Assets/Animations/MutantWalking.fbx
+  artifactKey: Guid(a491c6ba902729d41b489f7886dc8d44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/MutantWalking.fbx using Guid(a491c6ba902729d41b489f7886dc8d44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b3428d60e921084eaabdbd8086f6b5a7') in 0.004484 seconds
+  Import took 0.007193 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000693 seconds.
+  path: Assets/Animations/MutantWalking.fbx
+  artifactKey: Guid(a491c6ba902729d41b489f7886dc8d44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/MutantWalking.fbx using Guid(a491c6ba902729d41b489f7886dc8d44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b3428d60e921084eaabdbd8086f6b5a7') in 0.005511 seconds
+  Import took 0.008452 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001214 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.76 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.703 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.78 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1238 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 101.2 MB.
+System memory in use after: 101.2 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1835.
+Total: 1.714500 ms (FindLiveObjects: 0.171400 ms CreateObjectMapping: 0.044100 ms MarkObjects: 1.406100 ms  DeleteObjects: 0.091900 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 36.515439 seconds.
+  path: Assets/Animations/MutantJumpAttack.fbx
+  artifactKey: Guid(9797b603185946f488c63eb901d6e14e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/MutantJumpAttack.fbx using Guid(9797b603185946f488c63eb901d6e14e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '873fb4a8e8f0f3af7ebd8ddbe1ff32c5') in 0.037594 seconds
+  Import took 0.040948 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002355 seconds.
+  path: Assets/Animations/MutantJumpAttack.fbx
+  artifactKey: Guid(9797b603185946f488c63eb901d6e14e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/MutantJumpAttack.fbx using Guid(9797b603185946f488c63eb901d6e14e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '873fb4a8e8f0f3af7ebd8ddbe1ff32c5') in 0.004232 seconds
+  Import took 0.006750 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001112 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.80 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.750 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.77 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1238 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 101.2 MB.
+System memory in use after: 101.2 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1838.
+Total: 1.821100 ms (FindLiveObjects: 0.169800 ms CreateObjectMapping: 0.046200 ms MarkObjects: 1.502700 ms  DeleteObjects: 0.100800 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 170.132941 seconds.
+  path: Assets/Animations/mutant@Zombie Scream.fbx
+  artifactKey: Guid(9dd18d6f9223dd4439f7bb69fdde7955) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/mutant@Zombie Scream.fbx using Guid(9dd18d6f9223dd4439f7bb69fdde7955) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c20baf0685e7da2a2fc9469ee8057e9d') in 0.037503 seconds
+  Import took 0.040711 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.134879 seconds.
+  path: Assets/Animations/mutantAttack.fbx
+  artifactKey: Guid(0e4e7c3276c16ae44a1acc7a313b6382) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/mutantAttack.fbx using Guid(0e4e7c3276c16ae44a1acc7a313b6382) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c14dfba6ecbef291c8dad4851b0cac81') in 0.004424 seconds
+  Import took 0.007448 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.266667 seconds.
+  path: Assets/Animations/zombieScream.fbx
+  artifactKey: Guid(9dd18d6f9223dd4439f7bb69fdde7955) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/zombieScream.fbx using Guid(9dd18d6f9223dd4439f7bb69fdde7955) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ba3b44cb2e732479c40bd84c617556c0') in 0.006929 seconds
+  Import took 0.009379 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.236889 seconds.
+  path: Assets/Animation Controllers/BigBossZombie.controller
+  artifactKey: Guid(9839a768bea7bb141ba4a119c94c6ae1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animation Controllers/BigBossZombie.controller using Guid(9839a768bea7bb141ba4a119c94c6ae1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '71a7c1a3df1ba307620a1a61d3f12ffa') in 0.009887 seconds
+  Import took 0.012539 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 43.993723 seconds.
+  path: Assets/Animations/mutantAttack.fbx
+  artifactKey: Guid(0e4e7c3276c16ae44a1acc7a313b6382) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/mutantAttack.fbx using Guid(0e4e7c3276c16ae44a1acc7a313b6382) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '51795904596887e47642b8451efa9c38') in 0.004357 seconds
+  Import took 0.007015 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001279 seconds.
+  path: Assets/Animations/mutantAttack.fbx
+  artifactKey: Guid(0e4e7c3276c16ae44a1acc7a313b6382) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/mutantAttack.fbx using Guid(0e4e7c3276c16ae44a1acc7a313b6382) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '51795904596887e47642b8451efa9c38') in 0.004781 seconds
+  Import took 0.007382 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 17.717812 seconds.
+  path: Assets/Animations/MutantDeath.fbx
+  artifactKey: Guid(d75091333e24af84fb69c7f3c3087ca6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/MutantDeath.fbx using Guid(d75091333e24af84fb69c7f3c3087ca6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cd66507584aae7094abfeff0244fc7e8') in 0.004411 seconds
+  Import took 0.007140 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000522 seconds.
+  path: Assets/Animations/MutantDeath.fbx
+  artifactKey: Guid(d75091333e24af84fb69c7f3c3087ca6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/MutantDeath.fbx using Guid(d75091333e24af84fb69c7f3c3087ca6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cd66507584aae7094abfeff0244fc7e8') in 0.004708 seconds
+  Import took 0.007297 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.985997 seconds.
+  path: Assets/Animations/MutantJumpAttack.fbx
+  artifactKey: Guid(9797b603185946f488c63eb901d6e14e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/MutantJumpAttack.fbx using Guid(9797b603185946f488c63eb901d6e14e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8f3a10a77801181c3a753fbf1609cad0') in 0.004261 seconds
+  Import took 0.006824 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000639 seconds.
+  path: Assets/Animations/MutantJumpAttack.fbx
+  artifactKey: Guid(9797b603185946f488c63eb901d6e14e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/MutantJumpAttack.fbx using Guid(9797b603185946f488c63eb901d6e14e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8f3a10a77801181c3a753fbf1609cad0') in 0.004516 seconds
+  Import took 0.007076 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 29.194751 seconds.
+  path: Assets/Animations/MutantWalking.fbx
+  artifactKey: Guid(a491c6ba902729d41b489f7886dc8d44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/MutantWalking.fbx using Guid(a491c6ba902729d41b489f7886dc8d44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1bacf512ceafcf3602b5cfac559bbccb') in 0.004454 seconds
+  Import took 0.007070 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000567 seconds.
+  path: Assets/Animations/MutantWalking.fbx
+  artifactKey: Guid(a491c6ba902729d41b489f7886dc8d44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/MutantWalking.fbx using Guid(a491c6ba902729d41b489f7886dc8d44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1bacf512ceafcf3602b5cfac559bbccb') in 0.004915 seconds
+  Import took 0.008666 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.492082 seconds.
+  path: Assets/Animations/ZombieDeathBack.fbx
+  artifactKey: Guid(d21ef8aa9da804644a2c35e5a3ef2282) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/ZombieDeathBack.fbx using Guid(d21ef8aa9da804644a2c35e5a3ef2282) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6d2f69253024f1540a942b6b3c6e791e') in 0.008253 seconds
+  Import took 0.010944 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.072532 seconds.
+  path: Assets/Animations/ZombieDeathBack.fbx
+  artifactKey: Guid(d21ef8aa9da804644a2c35e5a3ef2282) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/ZombieDeathBack.fbx using Guid(d21ef8aa9da804644a2c35e5a3ef2282) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '656491dae9ab32ce64488a98c27a516d') in 0.005745 seconds
+  Import took 0.008360 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 24.023093 seconds.
+  path: Assets/Animations/ZombieDeathForward.fbx
+  artifactKey: Guid(6142cab80eb972147a5ccc875a868a12) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/ZombieDeathForward.fbx using Guid(6142cab80eb972147a5ccc875a868a12) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7c33654076242291562c72c4e046ea5c') in 0.005335 seconds
+  Import took 0.008070 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.638573 seconds.
+  path: Assets/Animations/ZombieDeathForward.fbx
+  artifactKey: Guid(6142cab80eb972147a5ccc875a868a12) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/ZombieDeathForward.fbx using Guid(6142cab80eb972147a5ccc875a868a12) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '790587511810f15e43610990009aa196') in 0.005594 seconds
+  Import took 0.008479 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 17.102712 seconds.
+  path: Assets/Animations/ZombieRun.fbx
+  artifactKey: Guid(4a4ec280699a60041a19772ccfee8fe6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/ZombieRun.fbx using Guid(4a4ec280699a60041a19772ccfee8fe6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9057368493efe263873cf6798d831e9e') in 0.004343 seconds
+  Import took 0.007066 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000336 seconds.
+  path: Assets/Animations/ZombieRun.fbx
+  artifactKey: Guid(4a4ec280699a60041a19772ccfee8fe6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/ZombieRun.fbx using Guid(4a4ec280699a60041a19772ccfee8fe6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9057368493efe263873cf6798d831e9e') in 0.004982 seconds
+  Import took 0.008019 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 16.465662 seconds.
+  path: Assets/Animations/zombieScream.fbx
+  artifactKey: Guid(9dd18d6f9223dd4439f7bb69fdde7955) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/zombieScream.fbx using Guid(9dd18d6f9223dd4439f7bb69fdde7955) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7ba3b24526ff686c305f404bcb78fe22') in 0.004136 seconds
+  Import took 0.006667 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.766568 seconds.
+  path: Assets/Animations/zombieScream.fbx
+  artifactKey: Guid(9dd18d6f9223dd4439f7bb69fdde7955) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/zombieScream.fbx using Guid(9dd18d6f9223dd4439f7bb69fdde7955) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a49fbded87ed8a2903c77db02f880e95') in 0.004219 seconds
+  Import took 0.007016 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 15.923145 seconds.
+  path: Assets/Animations/zombieScream.fbx
+  artifactKey: Guid(9dd18d6f9223dd4439f7bb69fdde7955) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/zombieScream.fbx using Guid(9dd18d6f9223dd4439f7bb69fdde7955) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2a5b206c7bf55b33dc00454fb355859c') in 0.004210 seconds
+  Import took 0.006817 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000551 seconds.
+  path: Assets/Animations/zombieScream.fbx
+  artifactKey: Guid(9dd18d6f9223dd4439f7bb69fdde7955) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/zombieScream.fbx using Guid(9dd18d6f9223dd4439f7bb69fdde7955) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2a5b206c7bf55b33dc00454fb355859c') in 0.005309 seconds
+  Import took 0.007797 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.914861 seconds.
+  path: Assets/Animations/zombieScream.fbx
+  artifactKey: Guid(9dd18d6f9223dd4439f7bb69fdde7955) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/zombieScream.fbx using Guid(9dd18d6f9223dd4439f7bb69fdde7955) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5324a04354b2926d7e0443dcbdfc5313') in 0.004159 seconds
+  Import took 0.006683 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000584 seconds.
+  path: Assets/Animations/zombieScream.fbx
+  artifactKey: Guid(9dd18d6f9223dd4439f7bb69fdde7955) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/zombieScream.fbx using Guid(9dd18d6f9223dd4439f7bb69fdde7955) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5324a04354b2926d7e0443dcbdfc5313') in 0.004466 seconds
+  Import took 0.006904 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 20.970117 seconds.
+  path: Assets/Animations/ZombieWalking.fbx
+  artifactKey: Guid(fd428d0bcd3d648439f0bcc78c5e7652) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/ZombieWalking.fbx using Guid(fd428d0bcd3d648439f0bcc78c5e7652) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '713674899089da1fc18a8f2969e966a6') in 0.004700 seconds
+  Import took 0.007363 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001017 seconds.
+  path: Assets/Animations/ZombieWalking.fbx
+  artifactKey: Guid(fd428d0bcd3d648439f0bcc78c5e7652) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/ZombieWalking.fbx using Guid(fd428d0bcd3d648439f0bcc78c5e7652) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '713674899089da1fc18a8f2969e966a6') in 0.004658 seconds
+  Import took 0.007267 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.059481 seconds.
+  path: Assets/Animations/ZombieWalking.fbx
+  artifactKey: Guid(fd428d0bcd3d648439f0bcc78c5e7652) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/ZombieWalking.fbx using Guid(fd428d0bcd3d648439f0bcc78c5e7652) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '580ae4380a2aab40e7ff5c65cfed4d43') in 0.004669 seconds
+  Import took 0.007501 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001117 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.79 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.702 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.77 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1238 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 101.2 MB.
+System memory in use after: 101.3 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1841.
+Total: 1.810400 ms (FindLiveObjects: 0.148900 ms CreateObjectMapping: 0.038700 ms MarkObjects: 1.501500 ms  DeleteObjects: 0.120400 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 128.927653 seconds.
+  path: Assets/Animation Controllers/ZombieWalking.controller
+  artifactKey: Guid(363c3fb7d398b054aae856cd1734a3cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animation Controllers/ZombieWalking.controller using Guid(363c3fb7d398b054aae856cd1734a3cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'efe89759f46139d201e82fcff83bd3f8') in 0.017606 seconds
+  Import took 0.020183 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 48.655251 seconds.
+  path: Assets/Animation Controllers/ZombieRun.controller
+  artifactKey: Guid(82181b649a3a79847bc7658e53e243e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animation Controllers/ZombieRun.controller using Guid(82181b649a3a79847bc7658e53e243e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0073c18f9585c78992397e9da37e7a19') in 0.001925 seconds
+  Import took 0.004249 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001103 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.82 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.674 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.77 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1238 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 101.2 MB.
+System memory in use after: 101.3 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1844.
+Total: 1.876200 ms (FindLiveObjects: 0.156900 ms CreateObjectMapping: 0.066100 ms MarkObjects: 1.538300 ms  DeleteObjects: 0.114100 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 81.080901 seconds.
+  path: Assets/Animations/ZombieDeathBack.fbx
+  artifactKey: Guid(d21ef8aa9da804644a2c35e5a3ef2282) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/ZombieDeathBack.fbx using Guid(d21ef8aa9da804644a2c35e5a3ef2282) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '034f20a1c4caebb81b844002f89c60b3') in 0.028099 seconds
+  Import took 0.031116 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.967693 seconds.
+  path: Assets/Animations/ZombieDeathForward.fbx
+  artifactKey: Guid(6142cab80eb972147a5ccc875a868a12) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/ZombieDeathForward.fbx using Guid(6142cab80eb972147a5ccc875a868a12) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b5ff7fa34d0019efc607929baabd3485') in 0.004771 seconds
+  Import took 0.007553 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000384 seconds.
+  path: Assets/Animations/ZombieDeathForward.fbx
+  artifactKey: Guid(6142cab80eb972147a5ccc875a868a12) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/ZombieDeathForward.fbx using Guid(6142cab80eb972147a5ccc875a868a12) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b5ff7fa34d0019efc607929baabd3485') in 0.005247 seconds
+  Import took 0.008309 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001093 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.83 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.709 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.78 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1238 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 101.2 MB.
+System memory in use after: 101.3 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1847.
+Total: 1.992000 ms (FindLiveObjects: 0.327500 ms CreateObjectMapping: 0.050100 ms MarkObjects: 1.496000 ms  DeleteObjects: 0.117100 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 40.423737 seconds.
+  path: Assets/Animations/MutantWalking.fbx
+  artifactKey: Guid(a491c6ba902729d41b489f7886dc8d44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/MutantWalking.fbx using Guid(a491c6ba902729d41b489f7886dc8d44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '028daa810939430411d2d7f9c3d92c7a') in 0.026692 seconds
+  Import took 0.029546 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.484191 seconds.
+  path: Assets/Animations/ZombieRun.fbx
+  artifactKey: Guid(4a4ec280699a60041a19772ccfee8fe6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/ZombieRun.fbx using Guid(4a4ec280699a60041a19772ccfee8fe6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7137b9ecfe31523d2daff3d24dfd4a6d') in 0.004542 seconds
+  Import took 0.007347 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 15.875615 seconds.
+  path: Assets/Animations/ZombieWalking.fbx
+  artifactKey: Guid(fd428d0bcd3d648439f0bcc78c5e7652) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/ZombieWalking.fbx using Guid(fd428d0bcd3d648439f0bcc78c5e7652) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1933effa38b95911a646b1290fd294b6') in 0.004798 seconds
+  Import took 0.007717 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000584 seconds.
+  path: Assets/Animations/ZombieWalking.fbx
+  artifactKey: Guid(fd428d0bcd3d648439f0bcc78c5e7652) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/ZombieWalking.fbx using Guid(fd428d0bcd3d648439f0bcc78c5e7652) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1933effa38b95911a646b1290fd294b6') in 0.004956 seconds
+  Import took 0.007880 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001171 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
 Refreshing native plugins compatible for Editor in 0.75 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1295 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 102.3 MB.
-System memory in use after: 102.4 MB.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.747 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.78 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1238 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 101.2 MB.
+System memory in use after: 101.3 MB.
 
-Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 1757.
-Total: 1.681600 ms (FindLiveObjects: 0.149400 ms CreateObjectMapping: 0.045700 ms MarkObjects: 1.381800 ms  DeleteObjects: 0.103900 ms)
-
-========================================================================
-Received Import Request.
-  path: Assets/PolygonApocalypse/Textures/PolygonApocalypse_Texture_03_A 1.png
-  artifactKey: Guid(a35fe7b6a5b5eb94793ad4729cb1c4ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/PolygonApocalypse/Textures/PolygonApocalypse_Texture_03_A 1.png using Guid(a35fe7b6a5b5eb94793ad4729cb1c4ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bc01cbc9fc29ed8c6454c7ef145987de') in 0.158847 seconds
-  Import took 0.161525 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 8.765914 seconds.
-  path: Assets/PolygonApocalypse/Textures/AlteredPolygonZombie.png
-  artifactKey: Guid(a35fe7b6a5b5eb94793ad4729cb1c4ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/PolygonApocalypse/Textures/AlteredPolygonZombie.png using Guid(a35fe7b6a5b5eb94793ad4729cb1c4ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c0e3bb20678dc31bef2dd3de8647f51b') in 0.021913 seconds
-  Import took 0.025068 seconds .
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1850.
+Total: 2.121300 ms (FindLiveObjects: 0.261400 ms CreateObjectMapping: 0.080300 ms MarkObjects: 1.688000 ms  DeleteObjects: 0.090700 ms)
 
 ========================================================================
 Received Import Request.
-  Time since last request: 182.177739 seconds.
-  path: Assets/PolygonBossZombies/Textures/PolygonZombieBoss_Texture_01_A.png
-  artifactKey: Guid(70fb501bace414a44b107f0fb9a5b34c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/PolygonBossZombies/Textures/PolygonZombieBoss_Texture_01_A.png using Guid(70fb501bace414a44b107f0fb9a5b34c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cb95ca4aa55418b5e77d30f962e549a1') in 0.027876 seconds
-  Import took 0.031488 seconds .
+  Time since last request: 44.564073 seconds.
+  path: Assets/Animations/ZombieDeathForward.fbx
+  artifactKey: Guid(6142cab80eb972147a5ccc875a868a12) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/ZombieDeathForward.fbx using Guid(6142cab80eb972147a5ccc875a868a12) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a36205470374fae1e68c4476cc16d453') in 0.032574 seconds
+  Import took 0.035633 seconds .
 
 ========================================================================
-Received Import Request.
-  Time since last request: 0.000214 seconds.
-  path: Assets/_MK/MKToon/Builtin/Iridescence/RGB.png
-  artifactKey: Guid(69d2f02ff80b4654eb2ac0be7cdeedbf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/_MK/MKToon/Builtin/Iridescence/RGB.png using Guid(69d2f02ff80b4654eb2ac0be7cdeedbf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aa873eb25daa704dced6707005fca10b') in 0.151997 seconds
-  Import took 0.154315 seconds .
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001205 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.88 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.739 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.83 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1238 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 101.2 MB.
+System memory in use after: 101.3 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1853.
+Total: 1.698200 ms (FindLiveObjects: 0.178800 ms CreateObjectMapping: 0.037400 ms MarkObjects: 1.369700 ms  DeleteObjects: 0.111600 ms)
 
 ========================================================================
-Received Import Request.
-  Time since last request: 0.000273 seconds.
-  path: Assets/_MK/MKToon/Builtin/Sketch/SketchScribbleCross.png
-  artifactKey: Guid(b8c0f384bdfdaf64ab783c74efd65fc4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/_MK/MKToon/Builtin/Sketch/SketchScribbleCross.png using Guid(b8c0f384bdfdaf64ab783c74efd65fc4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '92c5cefd36ae2e7b81e99a464e175157') in 0.088869 seconds
-  Import took 0.091629 seconds .
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001102 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.75 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.740 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.09 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1238 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 101.2 MB.
+System memory in use after: 101.3 MB.
 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000210 seconds.
-  path: Assets/_MK/MKToon/Builtin/Sketch/SketchScribble.png
-  artifactKey: Guid(69fb5889c3edeee43830e9ace4a17704) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/_MK/MKToon/Builtin/Sketch/SketchScribble.png using Guid(69fb5889c3edeee43830e9ace4a17704) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8f818d2cb69a4b222f3c170fe683d032') in 0.056730 seconds
-  Import took 0.059377 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000303 seconds.
-  path: Assets/_MK/MKToon/Builtin/GoochRamp1D/PY.png
-  artifactKey: Guid(d77ce935ffc5bbc45aec4826db2a7328) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/_MK/MKToon/Builtin/GoochRamp1D/PY.png using Guid(d77ce935ffc5bbc45aec4826db2a7328) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6a757513e7d432cfab201871a0b1c148') in 0.078063 seconds
-  Import took 0.080489 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000245 seconds.
-  path: Assets/_MK/MKToon/Builtin/GoochRamp2D/PY.png
-  artifactKey: Guid(a4741e9a60ace154c83cb0539fcd419f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/_MK/MKToon/Builtin/GoochRamp2D/PY.png using Guid(a4741e9a60ace154c83cb0539fcd419f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a1fd31d71dffdf3af343b9f4332f2b2e') in 0.185111 seconds
-  Import took 0.188465 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000193 seconds.
-  path: Assets/_MK/MKToon/Builtin/Sketch/SketchStrokeCross.png
-  artifactKey: Guid(77db09dbad2547f4093995f7a5b54ed2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/_MK/MKToon/Builtin/Sketch/SketchStrokeCross.png using Guid(77db09dbad2547f4093995f7a5b54ed2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a02c6b586237724f16c56ae0588d5648') in 0.094462 seconds
-  Import took 0.096966 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000286 seconds.
-  path: Assets/_MK/MKToon/Builtin/Sketch/SketchStrokeTri.png
-  artifactKey: Guid(1b41cebcf76f4c84aa73c31f8aaf34df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/_MK/MKToon/Builtin/Sketch/SketchStrokeTri.png using Guid(1b41cebcf76f4c84aa73c31f8aaf34df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5287864b1f1597e86b29a71f8da5db4c') in 0.100876 seconds
-  Import took 0.103114 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000300 seconds.
-  path: Assets/_MK/MKToon/Builtin/Sketch/SketchThinCross.png
-  artifactKey: Guid(f3e5dcc36f63389498c1d7e1ff740915) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/_MK/MKToon/Builtin/Sketch/SketchThinCross.png using Guid(f3e5dcc36f63389498c1d7e1ff740915) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '169d1ec16d1998e1227ae9d2f6d5bdb5') in 0.058713 seconds
-  Import took 0.061071 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000240 seconds.
-  path: Assets/PolygonBossZombies/Textures/PolygonZombieBoss_Texture_01_A.png
-  artifactKey: Guid(70fb501bace414a44b107f0fb9a5b34c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/PolygonBossZombies/Textures/PolygonZombieBoss_Texture_01_A.png using Guid(70fb501bace414a44b107f0fb9a5b34c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cb95ca4aa55418b5e77d30f962e549a1') in 0.009433 seconds
-  Import took 0.012152 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000210 seconds.
-  path: Assets/_MK/MKToon/Builtin/Iridescence/Rainbow.png
-  artifactKey: Guid(cb8568bff320c47409c01e35089f2f28) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/_MK/MKToon/Builtin/Iridescence/Rainbow.png using Guid(cb8568bff320c47409c01e35089f2f28) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9f616478119f52c22520467a2d6e7bdc') in 0.036186 seconds
-  Import took 0.039302 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000225 seconds.
-  path: Assets/_MK/MKToon/Builtin/Sketch/SketchStroke.png
-  artifactKey: Guid(e366b3edd8ee87240b2a70ea52be9977) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/_MK/MKToon/Builtin/Sketch/SketchStroke.png using Guid(e366b3edd8ee87240b2a70ea52be9977) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '215235705144e4f8633f3752903effba') in 0.043924 seconds
-  Import took 0.046657 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000249 seconds.
-  path: Assets/_MK/MKToon/Builtin/Sketch/SketchThinTri.png
-  artifactKey: Guid(58f45f2c132eab940a1afe387a40bb17) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/_MK/MKToon/Builtin/Sketch/SketchThinTri.png using Guid(58f45f2c132eab940a1afe387a40bb17) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e17f08456647c648bb35436d96d01732') in 0.076080 seconds
-  Import took 0.078884 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000163 seconds.
-  path: Assets/PolygonNature/Textures/Misc/Skybox_Diff.png
-  artifactKey: Guid(1202e6a7c7a1de2499a2c339a4382c9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/PolygonNature/Textures/Misc/Skybox_Diff.png using Guid(1202e6a7c7a1de2499a2c339a4382c9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c606a14f388b18a208863023ce64bddc') in 0.241518 seconds
-  Import took 0.244785 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000258 seconds.
-  path: Assets/_MK/MKToon/Builtin/Sketch/SketchScribbleTriT.png
-  artifactKey: Guid(cd0761ad1e974b14eaabb5d35ad832cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/_MK/MKToon/Builtin/Sketch/SketchScribbleTriT.png using Guid(cd0761ad1e974b14eaabb5d35ad832cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bc9d34fe0d4447099c158984bea91e41') in 0.097911 seconds
-  Import took 0.100196 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000197 seconds.
-  path: Assets/_MK/MKToon/Builtin/Sketch/SketchThin.png
-  artifactKey: Guid(a1c5549e6ac4a7947b31e20038f2e6b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/_MK/MKToon/Builtin/Sketch/SketchThin.png using Guid(a1c5549e6ac4a7947b31e20038f2e6b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '810edd9d89bdb9f52b7751e40b925f60') in 0.102551 seconds
-  Import took 0.104912 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000260 seconds.
-  path: Assets/_MK/MKToon/Builtin/Sketch/SketchVerticalLine.png
-  artifactKey: Guid(41db4d21aed14f649beb6d9cf4868e21) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/_MK/MKToon/Builtin/Sketch/SketchVerticalLine.png using Guid(41db4d21aed14f649beb6d9cf4868e21) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd46fa5dbea0f3238c714f25ba03ff98c') in 0.071284 seconds
-  Import took 0.073365 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000247 seconds.
-  path: Assets/_MK/MKToon/Builtin/GoochRamp2D/RRYY.png
-  artifactKey: Guid(4736dda9bbcab8743aa0ff801501070e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/_MK/MKToon/Builtin/GoochRamp2D/RRYY.png using Guid(4736dda9bbcab8743aa0ff801501070e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '36d30f57c6dda705f0a1299b82d2e65e') in 0.050561 seconds
-  Import took 0.052570 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 42.648388 seconds.
-  path: Assets/PolygonBossZombies/Textures/PolygonZombieBoss_Texture_01_A 1.png
-  artifactKey: Guid(8a25def561155fa459ab7a7b6c042034) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/PolygonBossZombies/Textures/PolygonZombieBoss_Texture_01_A 1.png using Guid(8a25def561155fa459ab7a7b6c042034) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '089da59e5cd535695daa4a03ce57bbbc') in 0.010854 seconds
-  Import took 0.013350 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.001155 seconds.
-  path: Assets/PolygonBossZombies/Textures/PolygonZombieBoss_Texture_01_A 1.png
-  artifactKey: Guid(8a25def561155fa459ab7a7b6c042034) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/PolygonBossZombies/Textures/PolygonZombieBoss_Texture_01_A 1.png using Guid(8a25def561155fa459ab7a7b6c042034) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '089da59e5cd535695daa4a03ce57bbbc') in 0.014150 seconds
-  Import took 0.016423 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 18.569534 seconds.
-  path: Assets/PolygonBossZombies/Textures/AlteredZombieBoss.png
-  artifactKey: Guid(8a25def561155fa459ab7a7b6c042034) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/PolygonBossZombies/Textures/AlteredZombieBoss.png using Guid(8a25def561155fa459ab7a7b6c042034) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2598099b3d43d287d6809e25a19dca4f') in 0.011463 seconds
-  Import took 0.014105 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000404 seconds.
-  path: Assets/PolygonBossZombies/Textures/AlteredZombieBoss.png
-  artifactKey: Guid(8a25def561155fa459ab7a7b6c042034) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/PolygonBossZombies/Textures/AlteredZombieBoss.png using Guid(8a25def561155fa459ab7a7b6c042034) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2598099b3d43d287d6809e25a19dca4f') in 0.010682 seconds
-  Import took 0.012984 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 69.055779 seconds.
-  path: Assets/PolygonBossZombies/Materials/Polygon_ZombieBoss_01_A.mat
-  artifactKey: Guid(68021691667e41745913058504a1d954) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/PolygonBossZombies/Materials/Polygon_ZombieBoss_01_A.mat using Guid(68021691667e41745913058504a1d954) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0613028cd56e5780806413794ff9e7ba') in 0.078857 seconds
-  Import took 0.081343 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000249 seconds.
-  path: Assets/PolygonBossZombies/Materials/PolygonZombieBoss_Texture_02_C.mat
-  artifactKey: Guid(9d583f1497db7f843bd3ef968b7ecf30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/PolygonBossZombies/Materials/PolygonZombieBoss_Texture_02_C.mat using Guid(9d583f1497db7f843bd3ef968b7ecf30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '35e2245bcaa83f5e91bbf0bee44a8318') in 0.065265 seconds
-  Import took 0.068360 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000207 seconds.
-  path: Assets/PolygonBossZombies/Materials/PolygonZombieBoss_Texture_03_A.mat
-  artifactKey: Guid(254ec52d49b2f0c4da25f5c15deb288e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/PolygonBossZombies/Materials/PolygonZombieBoss_Texture_03_A.mat using Guid(254ec52d49b2f0c4da25f5c15deb288e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7e2b78a7cea2f774f6649fbb17f50149') in 0.011369 seconds
-  Import took 0.013710 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000224 seconds.
-  path: Assets/PolygonBossZombies/Materials/PolygonZombieBoss_Texture_04_B.mat
-  artifactKey: Guid(3688cdab4d14e8b4f86d05103a764ad1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/PolygonBossZombies/Materials/PolygonZombieBoss_Texture_04_B.mat using Guid(3688cdab4d14e8b4f86d05103a764ad1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c8a0938330a6997fa0cd96426b743471') in 0.013104 seconds
-  Import took 0.016143 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000241 seconds.
-  path: Assets/PolygonBossZombies/Materials/PolygonZombieBoss_Texture_01_B.mat
-  artifactKey: Guid(01963701601c57144a42eba2f1026ef4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/PolygonBossZombies/Materials/PolygonZombieBoss_Texture_01_B.mat using Guid(01963701601c57144a42eba2f1026ef4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5165e305672c53dd47d964cf9fd41bed') in 0.014816 seconds
-  Import took 0.017672 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000210 seconds.
-  path: Assets/PolygonBossZombies/Materials/PolygonZombieBoss_Texture_01_C.mat
-  artifactKey: Guid(17b3088c892f3c24ba25b632715c4450) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/PolygonBossZombies/Materials/PolygonZombieBoss_Texture_01_C.mat using Guid(17b3088c892f3c24ba25b632715c4450) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '680a1215d3958f84faed72dfa846ebb3') in 0.011185 seconds
-  Import took 0.013901 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000316 seconds.
-  path: Assets/PolygonBossZombies/Materials/PolygonZombieBoss_Texture_04_C.mat
-  artifactKey: Guid(9f2d7631684559948ae95954c64e132d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/PolygonBossZombies/Materials/PolygonZombieBoss_Texture_04_C.mat using Guid(9f2d7631684559948ae95954c64e132d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '88b1acdeca0af6155e6509a2dee698be') in 0.011666 seconds
-  Import took 0.014198 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000219 seconds.
-  path: Assets/PolygonBossZombies/Materials/PolygonZombieBoss_Texture_03_B.mat
-  artifactKey: Guid(a50aaf0203bdf524b81c39d1f0088ab5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/PolygonBossZombies/Materials/PolygonZombieBoss_Texture_03_B.mat using Guid(a50aaf0203bdf524b81c39d1f0088ab5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0309c9c732ce8725d0d3c3fc39ce7099') in 0.010993 seconds
-  Import took 0.013820 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000180 seconds.
-  path: Assets/PolygonBossZombies/Materials/Polygon_ZombieBoss_01_A.mat
-  artifactKey: Guid(68021691667e41745913058504a1d954) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/PolygonBossZombies/Materials/Polygon_ZombieBoss_01_A.mat using Guid(68021691667e41745913058504a1d954) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0613028cd56e5780806413794ff9e7ba') in 0.013684 seconds
-  Import took 0.016466 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000214 seconds.
-  path: Assets/PolygonBossZombies/Materials/PolygonZombieBoss_Texture_02_B.mat
-  artifactKey: Guid(f0cf95f0c774e2d44a7c9d723914c4f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/PolygonBossZombies/Materials/PolygonZombieBoss_Texture_02_B.mat using Guid(f0cf95f0c774e2d44a7c9d723914c4f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e5099f9b1538dad6f6e76a1e02f6492b') in 0.010669 seconds
-  Import took 0.013103 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 96.274578 seconds.
-  path: Assets/PolygonBossZombies/Materials/AlteredZombieBoss 1.mat
-  artifactKey: Guid(c6b5c70280fedcd4dbbfa4dd96de0c91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/PolygonBossZombies/Materials/AlteredZombieBoss 1.mat using Guid(c6b5c70280fedcd4dbbfa4dd96de0c91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a9406c89c69140b5b009dc6d636bf30a') in 0.095775 seconds
-  Import took 0.103036 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 19.500271 seconds.
-  path: Assets/PolygonBossZombies/Materials/AlteredZombieBoss.mat
-  artifactKey: Guid(747139144b32d6746961983ca8ff7230) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/PolygonBossZombies/Materials/AlteredZombieBoss.mat using Guid(747139144b32d6746961983ca8ff7230) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9ba8707a34e4718447b58c9008a1c860') in 0.020328 seconds
-  Import took 0.023420 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 175.980757 seconds.
-  path: Assets/PolygonApocalypse/Materials/AlteredPolygonZombie 1.mat
-  artifactKey: Guid(58c5a95f73a61ee44ad04393f5fb2b05) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/PolygonApocalypse/Materials/AlteredPolygonZombie 1.mat using Guid(58c5a95f73a61ee44ad04393f5fb2b05) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '66d9a8825b47ed91bd1bab953c47b290') in 0.042137 seconds
-  Import took 0.045348 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000282 seconds.
-  path: Assets/PolygonApocalypse/Materials/AlteredPolygonZombie 3.mat
-  artifactKey: Guid(00340719c5ff5d842b3b221dd8a55436) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/PolygonApocalypse/Materials/AlteredPolygonZombie 3.mat using Guid(00340719c5ff5d842b3b221dd8a55436) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '12dcd25792173704d103c00fddf6ddec') in 0.017548 seconds
-  Import took 0.020467 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000173 seconds.
-  path: Assets/PolygonApocalypse/Materials/AlteredPolygonZombie.mat
-  artifactKey: Guid(33915736eee68cb4785f6412835d30a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/PolygonApocalypse/Materials/AlteredPolygonZombie.mat using Guid(33915736eee68cb4785f6412835d30a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '48faee36809a5d62eb1d4710ed35c759') in 0.016132 seconds
-  Import took 0.019156 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000221 seconds.
-  path: Assets/PolygonApocalypse/Materials/PolygonApocalypse_Texture_01_A.mat
-  artifactKey: Guid(f8081074042cb8c4b8f0413c25819275) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/PolygonApocalypse/Materials/PolygonApocalypse_Texture_01_A.mat using Guid(f8081074042cb8c4b8f0413c25819275) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '62bbad40ce40eab01ba7fc36a5066b42') in 0.062689 seconds
-  Import took 0.066448 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000193 seconds.
-  path: Assets/PolygonApocalypse/Materials/PolygonApocalypse_Texture_03_A.mat
-  artifactKey: Guid(3c20d7be424ed224abdd86eada04bf08) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/PolygonApocalypse/Materials/PolygonApocalypse_Texture_03_A.mat using Guid(3c20d7be424ed224abdd86eada04bf08) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a363eb3c946ebb850f79b36471995ebd') in 0.036719 seconds
-  Import took 0.039917 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000182 seconds.
-  path: Assets/PolygonApocalypse/Materials/AlteredPolygonZombie 4.mat
-  artifactKey: Guid(7df7beaabca5d534fa40a5cf8e08fda0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/PolygonApocalypse/Materials/AlteredPolygonZombie 4.mat using Guid(7df7beaabca5d534fa40a5cf8e08fda0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '95605d836bf8df9bb678bf53e1a2289a') in 0.015571 seconds
-  Import took 0.029827 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 17.681257 seconds.
-  path: Assets/PolygonApocalypse/Materials/AlteredPolygonZombie 2.mat
-  artifactKey: Guid(b4fb29d767f984f499a509db80bbb7fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/PolygonApocalypse/Materials/AlteredPolygonZombie 2.mat using Guid(b4fb29d767f984f499a509db80bbb7fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '87501089c49ac8214bc1a8be7035a642') in 0.019859 seconds
-  Import took 0.023438 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000254 seconds.
-  path: Assets/PolygonApocalypse/Materials/PolygonApocalypse_Texture_04_A.mat
-  artifactKey: Guid(50dd852d078eb9f4789281e23b8575ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/PolygonApocalypse/Materials/PolygonApocalypse_Texture_04_A.mat using Guid(50dd852d078eb9f4789281e23b8575ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f95b18a3e1157a44ffd31e826342a1ee') in 0.016715 seconds
-  Import took 0.020447 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000199 seconds.
-  path: Assets/PolygonApocalypse/Materials/PolygonApocalypse_Texture_02_A.mat
-  artifactKey: Guid(87ce1c968360d88469a5fffb72767dcd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/PolygonApocalypse/Materials/PolygonApocalypse_Texture_02_A.mat using Guid(87ce1c968360d88469a5fffb72767dcd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '478e4e2987c513d7b8aa3ec4a4691c48') in 0.047258 seconds
-  Import took 0.050364 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000169 seconds.
-  path: Assets/PolygonApocalypse/Materials/PolygonApocalypse_Material_01_A.mat
-  artifactKey: Guid(5bb68a94905ffc0418608fc7e572ea42) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/PolygonApocalypse/Materials/PolygonApocalypse_Material_01_A.mat using Guid(5bb68a94905ffc0418608fc7e572ea42) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b434efe9ae41b7dd22705ceb0d1b3715') in 0.045145 seconds
-  Import took 0.050842 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 93.674649 seconds.
-  path: Assets/PolygonApocalypse/Materials/AlteredPolygonZombie.mat
-  artifactKey: Guid(33915736eee68cb4785f6412835d30a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/PolygonApocalypse/Materials/AlteredPolygonZombie.mat using Guid(33915736eee68cb4785f6412835d30a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7dffc0e7e05824bbcc3260c6a293714b') in 0.016605 seconds
-  Import took 0.019878 seconds .
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1856.
+Total: 2.024500 ms (FindLiveObjects: 0.204400 ms CreateObjectMapping: 0.042700 ms MarkObjects: 1.653500 ms  DeleteObjects: 0.123000 ms)
 
 AssetImportWorkerClient::OnTransportError - code=2 error=End of file
