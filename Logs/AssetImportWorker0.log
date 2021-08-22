@@ -5577,3 +5577,659 @@ Received Import Request.
 Start importing Assets/sTargeting using Guid(8b6bf56f4cd4c41989a273431c069bd0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f1633d509793ba890d06a0b4f1651143') in 0.001025 seconds
   Import took 0.005462 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 44.389353 seconds.
+  path: Assets/sTargeting/Prefabs
+  artifactKey: Guid(c8b4cefa5d84b744d82c39ec68da6a48) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/sTargeting/Prefabs using Guid(c8b4cefa5d84b744d82c39ec68da6a48) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '03d0d254133df67fa44223594b8299ca') in 0.001103 seconds
+  Import took 0.006103 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.057253 seconds.
+  path: Assets/sTargeting/Prefabs/2d ring target 0 Green.prefab
+  artifactKey: Guid(99021c869d4927145b9ede1a0c2339af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/sTargeting/Prefabs/2d ring target 0 Green.prefab using Guid(99021c869d4927145b9ede1a0c2339af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f12e6d7691c383efd7664f2327b0d8d8') in 0.040020 seconds
+  Import took 0.044101 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000176 seconds.
+  path: Assets/sTargeting/Prefabs/2d ring target 1 Red.prefab
+  artifactKey: Guid(2603bd0c959e07142951d822e9ac2c51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/sTargeting/Prefabs/2d ring target 1 Red.prefab using Guid(2603bd0c959e07142951d822e9ac2c51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cf09206a375b75d186d74437d77841d1') in 0.011445 seconds
+  Import took 0.014769 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000171 seconds.
+  path: Assets/sTargeting/Prefabs/2d ring target 7 Red.prefab
+  artifactKey: Guid(384a71d9086b81743acafeaab04b4a4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/sTargeting/Prefabs/2d ring target 7 Red.prefab using Guid(384a71d9086b81743acafeaab04b4a4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '24fd8eb4ec27868de7642deaeaeb7503') in 0.006938 seconds
+  Import took 0.010565 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000201 seconds.
+  path: Assets/sTargeting/Prefabs/2d ring target 9 Green.prefab
+  artifactKey: Guid(783f70193eb654649a1d66284dd7d897) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/sTargeting/Prefabs/2d ring target 9 Green.prefab using Guid(783f70193eb654649a1d66284dd7d897) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1daac7bbb6d0046101c84f0ec8551cfe') in 0.007781 seconds
+  Import took 0.013210 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000203 seconds.
+  path: Assets/sTargeting/Prefabs/2d ring target 5 Green.prefab
+  artifactKey: Guid(8483d8de89998834497307ba50b62b76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/sTargeting/Prefabs/2d ring target 5 Green.prefab using Guid(8483d8de89998834497307ba50b62b76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a9922a62522ede5c1153cefeb5dd0987') in 0.008237 seconds
+  Import took 0.011957 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000207 seconds.
+  path: Assets/sTargeting/Prefabs/2d ring target 2.prefab
+  artifactKey: Guid(9360c83fe1796ad4d9de6afe0ccf9b58) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/sTargeting/Prefabs/2d ring target 2.prefab using Guid(9360c83fe1796ad4d9de6afe0ccf9b58) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fd25470689ec5745120479001a31d964') in 0.014381 seconds
+  Import took 0.018634 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000238 seconds.
+  path: Assets/sTargeting/Prefabs/2d ring target 10 Green.prefab
+  artifactKey: Guid(2aa5fc855d5fafe4da5fb9b85c85c352) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/sTargeting/Prefabs/2d ring target 10 Green.prefab using Guid(2aa5fc855d5fafe4da5fb9b85c85c352) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '87f9e9d063bb51b7b9646167e83e02e4') in 0.009296 seconds
+  Import took 0.013240 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000220 seconds.
+  path: Assets/sTargeting/Prefabs/2d ring target 8.prefab
+  artifactKey: Guid(5ce432e9bcd99284094f2a1bb56baf71) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/sTargeting/Prefabs/2d ring target 8.prefab using Guid(5ce432e9bcd99284094f2a1bb56baf71) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '46f265e0da564c1a190e526c774c5ce3') in 0.008432 seconds
+  Import took 0.011779 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000191 seconds.
+  path: Assets/sTargeting/Prefabs/2d ring target 0 Red.prefab
+  artifactKey: Guid(2e60d2d09d7c06b42a5c383cf07b90fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/sTargeting/Prefabs/2d ring target 0 Red.prefab using Guid(2e60d2d09d7c06b42a5c383cf07b90fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00db6161305ed72119e7549d53e7d0b9') in 0.008482 seconds
+  Import took 0.012003 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000210 seconds.
+  path: Assets/sTargeting/Prefabs/2d ring target 2 Green.prefab
+  artifactKey: Guid(4d1ba8398a0571a418e2cdf5f6cd3ae6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/sTargeting/Prefabs/2d ring target 2 Green.prefab using Guid(4d1ba8398a0571a418e2cdf5f6cd3ae6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1853558455a15db65f9c1dacfd44adca') in 0.011090 seconds
+  Import took 0.016395 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000251 seconds.
+  path: Assets/sTargeting/Prefabs/2d ring target 4.prefab
+  artifactKey: Guid(b8fd76c38f04df3448759aa3431ebfc7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/sTargeting/Prefabs/2d ring target 4.prefab using Guid(b8fd76c38f04df3448759aa3431ebfc7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e3d87c83eb040e15421f4c24b28a45c5') in 0.008564 seconds
+  Import took 0.012258 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000259 seconds.
+  path: Assets/sTargeting/Prefabs/2d ring target 2 Red.prefab
+  artifactKey: Guid(833d71269780b314ab43f66918ab611d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/sTargeting/Prefabs/2d ring target 2 Red.prefab using Guid(833d71269780b314ab43f66918ab611d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7a2da40774fe4fc5b4bb6b088349563c') in 0.011700 seconds
+  Import took 0.015731 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000279 seconds.
+  path: Assets/sTargeting/Prefabs/2d ring target 9 Red.prefab
+  artifactKey: Guid(6b9598ce8ac456d49a07ad5c11bbb13e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/sTargeting/Prefabs/2d ring target 9 Red.prefab using Guid(6b9598ce8ac456d49a07ad5c11bbb13e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2cc054d6fe1f04ecc6145f8af2443f31') in 0.007975 seconds
+  Import took 0.012178 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000181 seconds.
+  path: Assets/sTargeting/Prefabs/2d ring target 6.prefab
+  artifactKey: Guid(0b8821e426b4fa446a5f73557def86bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/sTargeting/Prefabs/2d ring target 6.prefab using Guid(0b8821e426b4fa446a5f73557def86bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c82bc5e04de321e1284ded4c540f4c5b') in 0.012513 seconds
+  Import took 0.016913 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000248 seconds.
+  path: Assets/sTargeting/Prefabs/2d ring target 1 Green.prefab
+  artifactKey: Guid(5d4fd87639fae7344aec91e10766c92a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/sTargeting/Prefabs/2d ring target 1 Green.prefab using Guid(5d4fd87639fae7344aec91e10766c92a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '60d45e78867bfcb2ab9c9ec2051be664') in 0.008925 seconds
+  Import took 0.013607 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000217 seconds.
+  path: Assets/sTargeting/Prefabs/2d ring target 8 Red.prefab
+  artifactKey: Guid(51de8f0a105309b43997f175da5c5cf8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/sTargeting/Prefabs/2d ring target 8 Red.prefab using Guid(51de8f0a105309b43997f175da5c5cf8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4f5fe5ad385da9ef8f4aa69e28b0842f') in 0.015702 seconds
+  Import took 0.021215 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000329 seconds.
+  path: Assets/sTargeting/Prefabs/2d ring target 9.prefab
+  artifactKey: Guid(09ff7c6a0502e6f41b63f8ebef984591) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/sTargeting/Prefabs/2d ring target 9.prefab using Guid(09ff7c6a0502e6f41b63f8ebef984591) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0aa4254d09c5b8f796f57936fd6322a1') in 0.008162 seconds
+  Import took 0.012151 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000223 seconds.
+  path: Assets/sTargeting/Prefabs/2d ring target 6 Green.prefab
+  artifactKey: Guid(e093b91c14a8b9c49a95a2a6f66959b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/sTargeting/Prefabs/2d ring target 6 Green.prefab using Guid(e093b91c14a8b9c49a95a2a6f66959b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '442fe9376343163f972ec7ae4fc81ef9') in 0.009157 seconds
+  Import took 0.013631 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000263 seconds.
+  path: Assets/sTargeting/Prefabs/2d ring target 4 Red.prefab
+  artifactKey: Guid(775a07d48609595488adc5d4dd6c9039) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/sTargeting/Prefabs/2d ring target 4 Red.prefab using Guid(775a07d48609595488adc5d4dd6c9039) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c06e4e7d6055fd99e978f3c79052b201') in 0.011787 seconds
+  Import took 0.019765 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000256 seconds.
+  path: Assets/sTargeting/Prefabs/2d ring target 0.prefab
+  artifactKey: Guid(283b2aa23e3253e4ea509137c58785b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/sTargeting/Prefabs/2d ring target 0.prefab using Guid(283b2aa23e3253e4ea509137c58785b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f331ad912da2bac8a473ebcc5ea953e3') in 0.011819 seconds
+  Import took 0.017578 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000226 seconds.
+  path: Assets/sTargeting/Prefabs/2d ring target 3 Red.prefab
+  artifactKey: Guid(d590ed402882ce44282ddc8f02dadf48) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/sTargeting/Prefabs/2d ring target 3 Red.prefab using Guid(d590ed402882ce44282ddc8f02dadf48) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dd9120195aefd5a7b7fd8e1674c2ec7e') in 0.007930 seconds
+  Import took 0.011400 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000190 seconds.
+  path: Assets/sTargeting/Prefabs/2d ring target 6 Red.prefab
+  artifactKey: Guid(9fc61557cc282af4b9fc62ad8f1e4382) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/sTargeting/Prefabs/2d ring target 6 Red.prefab using Guid(9fc61557cc282af4b9fc62ad8f1e4382) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7075240b976879efba8f1c389b58b921') in 0.008197 seconds
+  Import took 0.013024 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000297 seconds.
+  path: Assets/sTargeting/Prefabs/2d ring target 10.prefab
+  artifactKey: Guid(6b70477743db84f4e88d9554a8cbbe6e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/sTargeting/Prefabs/2d ring target 10.prefab using Guid(6b70477743db84f4e88d9554a8cbbe6e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bea5e46f63ea4e5b94e0832e2da22a99') in 0.007824 seconds
+  Import took 0.012105 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000186 seconds.
+  path: Assets/sTargeting/Prefabs/2d ring target 7.prefab
+  artifactKey: Guid(433db7fbd6fc29648aefb39d17e0fcca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/sTargeting/Prefabs/2d ring target 7.prefab using Guid(433db7fbd6fc29648aefb39d17e0fcca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '708258737bce0d6f737ca001a2a3e488') in 0.006482 seconds
+  Import took 0.009568 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000161 seconds.
+  path: Assets/sTargeting/Prefabs/2d ring target 5 Red.prefab
+  artifactKey: Guid(eedf7c0cbe1c8f040933b75e2432cb12) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/sTargeting/Prefabs/2d ring target 5 Red.prefab using Guid(eedf7c0cbe1c8f040933b75e2432cb12) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '32cc38dc053434e50643fda97b06d202') in 0.007218 seconds
+  Import took 0.010903 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000207 seconds.
+  path: Assets/sTargeting/Prefabs/2d ring target 4 Green.prefab
+  artifactKey: Guid(0c65783a29ff6694bbafac711d77e5b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/sTargeting/Prefabs/2d ring target 4 Green.prefab using Guid(0c65783a29ff6694bbafac711d77e5b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b4e7b6efaca91fac67e04af9d5a8aa5e') in 0.016801 seconds
+  Import took 0.022682 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000259 seconds.
+  path: Assets/sTargeting/Prefabs/2d ring target 5.prefab
+  artifactKey: Guid(02acc55a87ed93648bf682294948bf3b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/sTargeting/Prefabs/2d ring target 5.prefab using Guid(02acc55a87ed93648bf682294948bf3b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b142b44259f9e4905a409c1d66c101c1') in 0.011255 seconds
+  Import took 0.016726 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000217 seconds.
+  path: Assets/sTargeting/Prefabs/2d ring target 3.prefab
+  artifactKey: Guid(f36782bf2e630b541b1920c182e4eaab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/sTargeting/Prefabs/2d ring target 3.prefab using Guid(f36782bf2e630b541b1920c182e4eaab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0c7ee7c8d852ffdbedd2e8b16b17cbde') in 0.008755 seconds
+  Import took 0.012732 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000230 seconds.
+  path: Assets/sTargeting/Prefabs/2d ring target 8 Green.prefab
+  artifactKey: Guid(8a952e8ec7bdf60419ef2088081629bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/sTargeting/Prefabs/2d ring target 8 Green.prefab using Guid(8a952e8ec7bdf60419ef2088081629bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7d96d534308c7daecfd2f06825230566') in 0.008964 seconds
+  Import took 0.013200 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000234 seconds.
+  path: Assets/sTargeting/Prefabs/2d ring target 3 Green.prefab
+  artifactKey: Guid(a0170f707699b8242ad9cc66ddbf42b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/sTargeting/Prefabs/2d ring target 3 Green.prefab using Guid(a0170f707699b8242ad9cc66ddbf42b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a96dba0e437fd7cf1319879e46ffc0db') in 0.009161 seconds
+  Import took 0.012981 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000211 seconds.
+  path: Assets/sTargeting/Prefabs/2d ring target 1.prefab
+  artifactKey: Guid(23194b742a6e3124cb2970b1c2bb5e61) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/sTargeting/Prefabs/2d ring target 1.prefab using Guid(23194b742a6e3124cb2970b1c2bb5e61) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '11ada4584b96551544f320dac3e6ae10') in 0.007349 seconds
+  Import took 0.010608 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000244 seconds.
+  path: Assets/sTargeting/Prefabs/2d ring target 7 Green.prefab
+  artifactKey: Guid(bce58ad77dfdd22448cac4275c5b27ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/sTargeting/Prefabs/2d ring target 7 Green.prefab using Guid(bce58ad77dfdd22448cac4275c5b27ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8e7315748a120befbc4401c9440b08af') in 0.008417 seconds
+  Import took 0.013111 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000288 seconds.
+  path: Assets/sTargeting/Prefabs/2d ring target 3 Green.prefab
+  artifactKey: Guid(a0170f707699b8242ad9cc66ddbf42b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/sTargeting/Prefabs/2d ring target 3 Green.prefab using Guid(a0170f707699b8242ad9cc66ddbf42b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a96dba0e437fd7cf1319879e46ffc0db') in 0.009489 seconds
+  Import took 0.014583 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000243 seconds.
+  path: Assets/sTargeting/Prefabs/2d ring target 10 Red.prefab
+  artifactKey: Guid(ca4db69af2b540c448701684989ee97a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/sTargeting/Prefabs/2d ring target 10 Red.prefab using Guid(ca4db69af2b540c448701684989ee97a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ad8f5016e8227c1edcb100283580ef84') in 0.011249 seconds
+  Import took 0.016862 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004735 seconds.
+  path: Assets/sTargeting/Prefabs/2d ring target 7 Green.prefab
+  artifactKey: Guid(bce58ad77dfdd22448cac4275c5b27ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/sTargeting/Prefabs/2d ring target 7 Green.prefab using Guid(bce58ad77dfdd22448cac4275c5b27ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8e7315748a120befbc4401c9440b08af') in 0.008942 seconds
+  Import took 0.012686 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 91.715662 seconds.
+  path: Assets/sTargeting/Prefabs/2d ring target 11 Green.prefab
+  artifactKey: Guid(e980d65a9e0ec154c8fcc4c376165862) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/sTargeting/Prefabs/2d ring target 11 Green.prefab using Guid(e980d65a9e0ec154c8fcc4c376165862) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '214e4832c97653275c89c278d26b872e') in 0.020432 seconds
+  Import took 0.024137 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000213 seconds.
+  path: Assets/sTargeting/Prefabs/2d ring target 13 Red.prefab
+  artifactKey: Guid(6f0ec5ae50129b94ab485a46f28f69c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/sTargeting/Prefabs/2d ring target 13 Red.prefab using Guid(6f0ec5ae50129b94ab485a46f28f69c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6f48dc90197051169146e9ed5dcf4b03') in 0.009126 seconds
+  Import took 0.012808 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000212 seconds.
+  path: Assets/sTargeting/Prefabs/2d ring target 12 Red.prefab
+  artifactKey: Guid(e9ba5106403c10a478984d89b8b3ce15) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/sTargeting/Prefabs/2d ring target 12 Red.prefab using Guid(e9ba5106403c10a478984d89b8b3ce15) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd56ed4b07a9c85f176a81dbaae706f81') in 0.030797 seconds
+  Import took 0.034423 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000187 seconds.
+  path: Assets/sTargeting/Prefabs/2d ring target 12.prefab
+  artifactKey: Guid(788348591c50428499166602dc8f0a77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/sTargeting/Prefabs/2d ring target 12.prefab using Guid(788348591c50428499166602dc8f0a77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '675fe874f6baa08c2ef601e6de8a0c4f') in 0.009120 seconds
+  Import took 0.012346 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000182 seconds.
+  path: Assets/sTargeting/Prefabs/2d ring target 12 Green.prefab
+  artifactKey: Guid(ea1072b697547df429c569dd428b599d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/sTargeting/Prefabs/2d ring target 12 Green.prefab using Guid(ea1072b697547df429c569dd428b599d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9805fcd8d480d00ce973f858b85dc582') in 0.007189 seconds
+  Import took 0.010876 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000209 seconds.
+  path: Assets/sTargeting/Prefabs/2d ring target 13 Green.prefab
+  artifactKey: Guid(02bc08011492fa94e94809cd3f46cd7d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/sTargeting/Prefabs/2d ring target 13 Green.prefab using Guid(02bc08011492fa94e94809cd3f46cd7d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '60862e446c68a37241c2409fecbc1fa7') in 0.006800 seconds
+  Import took 0.010648 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000178 seconds.
+  path: Assets/sTargeting/Prefabs/2d ring target 11.prefab
+  artifactKey: Guid(da63079809eee5747bff0c94d22a6162) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/sTargeting/Prefabs/2d ring target 11.prefab using Guid(da63079809eee5747bff0c94d22a6162) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '96ac3b02034ba74b98e296b341f7c38e') in 0.015576 seconds
+  Import took 0.019145 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000179 seconds.
+  path: Assets/sTargeting/Prefabs/2d ring target 11 Red.prefab
+  artifactKey: Guid(98414cb793fe9064c995ad0e2b589278) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/sTargeting/Prefabs/2d ring target 11 Red.prefab using Guid(98414cb793fe9064c995ad0e2b589278) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7acaebdca89ab133cd56a8cc9ab32273') in 0.007111 seconds
+  Import took 0.011011 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.262154 seconds.
+  path: Assets/sTargeting/Prefabs/2d ring target 13.prefab
+  artifactKey: Guid(82c68b9b6d997904595a4936de1f3633) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/sTargeting/Prefabs/2d ring target 13.prefab using Guid(82c68b9b6d997904595a4936de1f3633) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '61219ac02b056d00b69b31a90e97cecd') in 0.095003 seconds
+  Import took 0.099647 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000271 seconds.
+  path: Assets/sTargeting/Prefabs/2d ring target 15 Red.prefab
+  artifactKey: Guid(722e9759f34814a43a8ffbfb4141a07a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/sTargeting/Prefabs/2d ring target 15 Red.prefab using Guid(722e9759f34814a43a8ffbfb4141a07a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'de39a8eed5a3dff0232e2c782b8201ec') in 0.010977 seconds
+  Import took 0.017278 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000242 seconds.
+  path: Assets/sTargeting/Prefabs/2d ring target 14 Green.prefab
+  artifactKey: Guid(e83f213d31bef7945b903542b22a3d58) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/sTargeting/Prefabs/2d ring target 14 Green.prefab using Guid(e83f213d31bef7945b903542b22a3d58) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ab003ac59ff0064e3c449ba93dc618e4') in 0.009351 seconds
+  Import took 0.013522 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000226 seconds.
+  path: Assets/sTargeting/Prefabs/2d ring target 14 Red.prefab
+  artifactKey: Guid(d7c988edbe049ea43ba24ce4313ec4d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/sTargeting/Prefabs/2d ring target 14 Red.prefab using Guid(d7c988edbe049ea43ba24ce4313ec4d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1af4af82011e9e36084ad6c2c609a5fe') in 0.019448 seconds
+  Import took 0.023285 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000264 seconds.
+  path: Assets/sTargeting/Prefabs/2d ring target 15.prefab
+  artifactKey: Guid(97e2a223973d5ca4aac85ae6a87dd3fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/sTargeting/Prefabs/2d ring target 15.prefab using Guid(97e2a223973d5ca4aac85ae6a87dd3fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '348aec62ab872f84ab378b6be9762198') in 0.009623 seconds
+  Import took 0.014793 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000199 seconds.
+  path: Assets/sTargeting/Prefabs/2d ring target 16 Green.prefab
+  artifactKey: Guid(12bd5775218bf81419f97f48fe2cc918) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/sTargeting/Prefabs/2d ring target 16 Green.prefab using Guid(12bd5775218bf81419f97f48fe2cc918) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '507bd13ba00a5c2c4f13160b2edfe9cb') in 0.008657 seconds
+  Import took 0.012707 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000347 seconds.
+  path: Assets/sTargeting/Prefabs/2d ring target 15 Green.prefab
+  artifactKey: Guid(c12b0b6b137349f4099a37d6c310ca43) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/sTargeting/Prefabs/2d ring target 15 Green.prefab using Guid(c12b0b6b137349f4099a37d6c310ca43) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '23eee8a320d8d53402d07eee79ff57db') in 0.008254 seconds
+  Import took 0.012819 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000243 seconds.
+  path: Assets/sTargeting/Prefabs/2d ring target 14.prefab
+  artifactKey: Guid(db56bc5383fdb534db512365aaf27616) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/sTargeting/Prefabs/2d ring target 14.prefab using Guid(db56bc5383fdb534db512365aaf27616) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '629ef487da4f919fab2c5234d79408e9') in 0.013342 seconds
+  Import took 0.017196 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.377814 seconds.
+  path: Assets/sTargeting/Prefabs/2d ring target 16 Red.prefab
+  artifactKey: Guid(9015bfa67c808764a82a6c39300c59e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/sTargeting/Prefabs/2d ring target 16 Red.prefab using Guid(9015bfa67c808764a82a6c39300c59e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2786fc2c5a68be9b60024b51ab8a7d5c') in 0.007472 seconds
+  Import took 0.010691 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000161 seconds.
+  path: Assets/sTargeting/Prefabs/2d ring target 18 Green.prefab
+  artifactKey: Guid(f6a18e8ed6c62f14daa8d2c9b488fedf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/sTargeting/Prefabs/2d ring target 18 Green.prefab using Guid(f6a18e8ed6c62f14daa8d2c9b488fedf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8d825808dc91e819270b2937df8a7e7f') in 0.006871 seconds
+  Import took 0.010757 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000169 seconds.
+  path: Assets/sTargeting/Prefabs/2d ring target 16 Red.prefab
+  artifactKey: Guid(9015bfa67c808764a82a6c39300c59e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/sTargeting/Prefabs/2d ring target 16 Red.prefab using Guid(9015bfa67c808764a82a6c39300c59e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2786fc2c5a68be9b60024b51ab8a7d5c') in 0.008321 seconds
+  Import took 0.011990 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000162 seconds.
+  path: Assets/sTargeting/Prefabs/2d ring target 17.prefab
+  artifactKey: Guid(fc2c7699306bd8c4cb21a680aa1c297c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/sTargeting/Prefabs/2d ring target 17.prefab using Guid(fc2c7699306bd8c4cb21a680aa1c297c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '75a5eedef2294f6bc8fa6f729d15b96a') in 0.026773 seconds
+  Import took 0.030223 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000161 seconds.
+  path: Assets/sTargeting/Prefabs/2d ring target 19.prefab
+  artifactKey: Guid(ab797c4e662d8cd4298eaad85e31c699) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/sTargeting/Prefabs/2d ring target 19.prefab using Guid(ab797c4e662d8cd4298eaad85e31c699) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6fe60a60fcfdfbd3fedfdd8352909108') in 0.007339 seconds
+  Import took 0.010666 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000173 seconds.
+  path: Assets/sTargeting/Prefabs/2d ring target 20 Red.prefab
+  artifactKey: Guid(f17eb3cf32726314a84f417dcd4fd711) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/sTargeting/Prefabs/2d ring target 20 Red.prefab using Guid(f17eb3cf32726314a84f417dcd4fd711) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ad020fd328838ac52b797f690dad7943') in 0.007196 seconds
+  Import took 0.010613 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000196 seconds.
+  path: Assets/sTargeting/Prefabs/ring target 0.prefab
+  artifactKey: Guid(a4a755c01001f17429f9ba5774973b4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/sTargeting/Prefabs/ring target 0.prefab using Guid(a4a755c01001f17429f9ba5774973b4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bf18131c37a23d45b50564063b773fb2') in 0.033772 seconds
+  Import took 0.039318 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000258 seconds.
+  path: Assets/sTargeting/Prefabs/2d ring target 20.prefab
+  artifactKey: Guid(2f506334071210d4da8576bbaeb17257) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/sTargeting/Prefabs/2d ring target 20.prefab using Guid(2f506334071210d4da8576bbaeb17257) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2ec39fadea8108af55ebb4e39694b818') in 0.009567 seconds
+  Import took 0.014328 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000248 seconds.
+  path: Assets/sTargeting/Prefabs/ring target 1.prefab
+  artifactKey: Guid(9365552e993adb544938474be94aa0a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/sTargeting/Prefabs/ring target 1.prefab using Guid(9365552e993adb544938474be94aa0a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '95a512a515293d99796e436f43a57170') in 0.012225 seconds
+  Import took 0.018523 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000211 seconds.
+  path: Assets/sTargeting/Prefabs/ring target 2.prefab
+  artifactKey: Guid(42b5da741a9a96b47bab9b5131524cef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/sTargeting/Prefabs/ring target 2.prefab using Guid(42b5da741a9a96b47bab9b5131524cef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c0e03efb5e6f85dd4c91c9365c00f0a5') in 0.007738 seconds
+  Import took 0.012537 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000477 seconds.
+  path: Assets/sTargeting/Prefabs/ring target 7.prefab
+  artifactKey: Guid(b49e544fea674a3478b96cec622217f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/sTargeting/Prefabs/ring target 7.prefab using Guid(b49e544fea674a3478b96cec622217f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd62a6a2aee0f725690a3b019ae96b1a3') in 0.007786 seconds
+  Import took 0.012562 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000229 seconds.
+  path: Assets/sTargeting/Prefabs/ring target 9.prefab
+  artifactKey: Guid(16be60185822a4d4ebd6f5362c3f8f02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/sTargeting/Prefabs/ring target 9.prefab using Guid(16be60185822a4d4ebd6f5362c3f8f02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c25b8ea45c419a06a6c093f5bc5d4823') in 0.007229 seconds
+  Import took 0.011045 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000208 seconds.
+  path: Assets/sTargeting/Prefabs/2d ring target 20 Green.prefab
+  artifactKey: Guid(b942690941aee614586d862d11891324) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/sTargeting/Prefabs/2d ring target 20 Green.prefab using Guid(b942690941aee614586d862d11891324) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd187e2da87b394d5f903f7dad707d035') in 0.032187 seconds
+  Import took 0.036727 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000251 seconds.
+  path: Assets/sTargeting/Prefabs/ring target 8.prefab
+  artifactKey: Guid(40766a2a10c7dee4c84c8f6ba84b59e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/sTargeting/Prefabs/ring target 8.prefab using Guid(40766a2a10c7dee4c84c8f6ba84b59e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd07c6e14cf6fd995d6f05f13b9c9992d') in 0.009078 seconds
+  Import took 0.014914 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000306 seconds.
+  path: Assets/sTargeting/Prefabs/2d ring target 19 Red.prefab
+  artifactKey: Guid(13c210f8d7b41094892430d577a05efb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/sTargeting/Prefabs/2d ring target 19 Red.prefab using Guid(13c210f8d7b41094892430d577a05efb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5ec7f541576e0117a70b62e249ea8c44') in 0.011233 seconds
+  Import took 0.016730 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000227 seconds.
+  path: Assets/sTargeting/Prefabs/ring target 3.prefab
+  artifactKey: Guid(34d7ed780e63cc74791cf90c7dff34dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/sTargeting/Prefabs/ring target 3.prefab using Guid(34d7ed780e63cc74791cf90c7dff34dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aee57b7acb587c9b66e5f873391cccc0') in 0.009047 seconds
+  Import took 0.014625 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000226 seconds.
+  path: Assets/sTargeting/Prefabs/ring target 5.prefab
+  artifactKey: Guid(53bb38e69c620ef46a76bb6eb0f948db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/sTargeting/Prefabs/ring target 5.prefab using Guid(53bb38e69c620ef46a76bb6eb0f948db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5664ba3313d73d355550ee5cadfbd2bc') in 0.014047 seconds
+  Import took 0.018643 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000268 seconds.
+  path: Assets/sTargeting/Prefabs/2d ring target 18 Red.prefab
+  artifactKey: Guid(031b94997ad17724f8b00ca86896f241) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/sTargeting/Prefabs/2d ring target 18 Red.prefab using Guid(031b94997ad17724f8b00ca86896f241) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '18f5e84ef4154c72c6c095fdcb9090bd') in 0.010418 seconds
+  Import took 0.015045 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000207 seconds.
+  path: Assets/sTargeting/Prefabs/2d ring target 18.prefab
+  artifactKey: Guid(64510e945cddaf3458a95d932844f896) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/sTargeting/Prefabs/2d ring target 18.prefab using Guid(64510e945cddaf3458a95d932844f896) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '912674547d57f34eae9d40e89a2b11c7') in 0.009163 seconds
+  Import took 0.013437 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000212 seconds.
+  path: Assets/sTargeting/Prefabs/2d ring target 17 Green.prefab
+  artifactKey: Guid(0abbad8704a4da34cb778bdb43d2266c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/sTargeting/Prefabs/2d ring target 17 Green.prefab using Guid(0abbad8704a4da34cb778bdb43d2266c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '71dbf7d38548752fd0b6770e28b10dc7') in 0.008173 seconds
+  Import took 0.011740 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000194 seconds.
+  path: Assets/sTargeting/Prefabs/ring target 4.prefab
+  artifactKey: Guid(81486691a615d4f42acc5d5ab06896f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/sTargeting/Prefabs/ring target 4.prefab using Guid(81486691a615d4f42acc5d5ab06896f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2af1b2ac8e6a80f0bd99c30991e0f9a5') in 0.007551 seconds
+  Import took 0.011207 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000236 seconds.
+  path: Assets/sTargeting/Prefabs/2d ring target 17 Red.prefab
+  artifactKey: Guid(567fb9dbf554c054297a8e04a1932e2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/sTargeting/Prefabs/2d ring target 17 Red.prefab using Guid(567fb9dbf554c054297a8e04a1932e2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5eee45dab9653e803a598a58610a1c76') in 0.010037 seconds
+  Import took 0.015745 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000230 seconds.
+  path: Assets/sTargeting/Prefabs/2d ring target 16.prefab
+  artifactKey: Guid(9cff5651b211c864e8250c50de6fecfb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/sTargeting/Prefabs/2d ring target 16.prefab using Guid(9cff5651b211c864e8250c50de6fecfb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '470da5bbf12f8a77ab050f623d0924b9') in 0.009587 seconds
+  Import took 0.014071 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000206 seconds.
+  path: Assets/sTargeting/Prefabs/2d ring target 19 Green.prefab
+  artifactKey: Guid(6eb0f16da2db56b48898de7e99f58d7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/sTargeting/Prefabs/2d ring target 19 Green.prefab using Guid(6eb0f16da2db56b48898de7e99f58d7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e989077eb2bf77b3bd297e8e916a6abf') in 0.007978 seconds
+  Import took 0.012468 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000257 seconds.
+  path: Assets/sTargeting/Prefabs/ring target 6.prefab
+  artifactKey: Guid(1a221163dbec9594194ddda87f3476e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/sTargeting/Prefabs/ring target 6.prefab using Guid(1a221163dbec9594194ddda87f3476e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd0b60bc7736f781289066c1515a13252') in 0.009014 seconds
+  Import took 0.013617 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000195 seconds.
+  path: Assets/sTargeting/Prefabs/2d ring target 17 Red.prefab
+  artifactKey: Guid(567fb9dbf554c054297a8e04a1932e2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/sTargeting/Prefabs/2d ring target 17 Red.prefab using Guid(567fb9dbf554c054297a8e04a1932e2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5eee45dab9653e803a598a58610a1c76') in 0.008098 seconds
+  Import took 0.011863 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.032809 seconds.
+  path: Assets/sTargeting/Prefabs/ring target 6.prefab
+  artifactKey: Guid(1a221163dbec9594194ddda87f3476e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/sTargeting/Prefabs/ring target 6.prefab using Guid(1a221163dbec9594194ddda87f3476e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd0b60bc7736f781289066c1515a13252') in 0.006924 seconds
+  Import took 0.011549 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005562 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 2.01 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.372 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.70 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1543 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 206.3 MB.
+System memory in use after: 206.4 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 2094.
+Total: 2.279652 ms (FindLiveObjects: 0.282520 ms CreateObjectMapping: 0.075207 ms MarkObjects: 1.848397 ms  DeleteObjects: 0.072487 ms)
+
