@@ -8,7 +8,7 @@ AnimatorState:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: zombieDeathBack
-  m_Speed: 1
+  m_Speed: 1.5
   m_CycleOffset: 0
   m_Transitions: []
   m_StateMachineBehaviours: []
@@ -42,7 +42,7 @@ AnimatorStateTransition:
   serializedVersion: 3
   m_TransitionDuration: 0.1
   m_TransitionOffset: 0
-  m_ExitTime: 0.4
+  m_ExitTime: 0.44
   m_HasExitTime: 1
   m_HasFixedDuration: 1
   m_InterruptionSource: 0
@@ -62,7 +62,7 @@ AnimatorStateMachine:
     m_Position: {x: 305.3747, y: 150.0726, z: 0}
   - serializedVersion: 1
     m_State: {fileID: -7346490267239164074}
-    m_Position: {x: 398.9062, y: 253.23236, z: 0}
+    m_Position: {x: 390, y: 250, z: 0}
   m_ChildStateMachines: []
   m_AnyStateTransitions: []
   m_EntryTransitions: []
